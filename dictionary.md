@@ -26,7 +26,6 @@ worn out    измученный
 drowsiness  сонливость
 hustle      теснить
 prospect    перспектива
-attitude    отношение, позиция
 struggle    стараться изо всех сил
 admit       признавать
 get across  донести
