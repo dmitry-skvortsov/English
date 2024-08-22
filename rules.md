@@ -605,6 +605,7 @@
 #### - (positive verb)
 ##### no + one/body/thing/where
 - They have nowhere to stay.
+#Quantifiers
 
 ## Template
 ### Active
