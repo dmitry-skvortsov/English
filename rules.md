@@ -1367,7 +1367,7 @@ Jack and Ivan are such clever boys!
     - Используй Present Simple в обоих частях если утверждение верно
         - Nobody understands how Roberto can speak so many languages!
 
-## Geridn
+## Gerind
 ### Passive
 - modal + be + Ved/V3
     - The rules must be followed.
