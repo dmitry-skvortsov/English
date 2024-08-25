@@ -1,24 +1,70 @@
 
 # English
-
-## I wish/if only + Past Simple/Would
-### Past Simple
-- Если вы хотите чтобы что-то в будущем или настоящем было по другому
+## unreal tenses
+### I wish/if only + Past Simple/Would
+#### Использование
+- Использу есть для выражения сожалений или желаний. Мы воображаем другое настоящее или прошлое
+    - if only и wish взаимозаменяемы, но if only более выразительно
+#### Формы
+##### wish / if only + Past Simple/Continuous
+- Выражает желания о настоящем, мы хотим чтобы что-то было по другому сейча, но это сейчас не возможно
+    - I wish you weren't leaving tomorrow. (But you're leaving.)
+    - If only I could turn back time. (But I cannot do it.)
     - You don't know how to swim.
         - I wish I knew how to swim.
         - If only I knew how to swim.
-### Would
-- Если вы хотите или не хотите чего-то или хотите чтобы ситуация поменялась
+##### wish / if only + Past Perfect
+- Выражает сожаление о прошлом, мы хотим тим изменить что-то что уже произошло
+    - I wish I had apologised properly in front of your family last night. (But I didn't do it.)
+    - If only the editor hadn't mentioned the actor's divorce in the article. (But they mentioned it.)
+##### wish / if only + would + infinitive
+- Выражает раздражение или критику, мы хотем чтобы чье-то поведение изменилось или что-то произошло
+    - Dan wishes Tracy would stop bringing up her personal issues during meetings.
+    - If only someone would come up with a quick solution.
     - Your neighbour plays music loudly.
         - I wish my neighbour wouldn't play music so loudly.
         - If only my neighbour wouldn't play music so loudly.
-### if only и wish взаимозаменяемы, но if only более выразительно
-### would не используется про самого себя(**not** i wish i would)
-### Мы можем использоывать was и were после wish/if only в 1м и 3м лице для желаний о текущей ситуации
+- **Важно** Изменения должно быть возможно! Если это не возможно или не под нашим контролем, нужно использовать другую форму - **wish / if only + Past Simple.**
+    - I wish celebrities would open up more about their struggles. (It's possible.)
+    - I wish we had more free time. (But now it's impossible.)
+- **Важно** Если субект и объект это одно и тоже лицо,
+нельзя использовать would, нужно использвать **Past Simple**
+    - I wish I could hear my deceased grandfather’s voice one more time.
+### It's (high/about) time + clause
+#### Использование
+- Чтобы сказать что что-то происходит, но не должно было бы
+- Нельзя использовать отрицательную форму в it's time
+#### Формы
+##### It's (high/about) time (that) + Past Simple/Continuous
+- It's high time (that) you arranged an interview with her.
+- It's time (that) Oliver was / were promoted to a producer.
+### Would rather/sooner + clause
+#### Формы
+##### would ('d) rather/sooner + Past Simple/Continuous
+- Выражение предпочтений или дача совета в вежливой форме. Форма прошлого времени относится к настоящему и будущему
+    - She'd rather you didn't talk behind her colleague's back.
+    - We'd sooner you made a comeback this summer.
+##### would ('d) rather/sooner + Past Perfect
+- Выражает предпочтения или желания о прошлом
+    - I'd rather you hadn't watched that documentary. Look how concerned it made you.
+## Speaking about the present 
+### Keep, be prone to, tend to, have a tendency to, as a rule)
+- Используются чтобы говорить о типичных действиях или состояних в настоящем
+### Формы
+- to keep + gerund
+    - The client keeps asking for a refund.
+- to be prone to + gerund / infinitive (обычно применяется с негативными ситуациями)
+    - Mark is prone to catch colds in the autumn.
+    - Mark is prone to catching colds in the autumn.
+- to tend to / to have a tendency to + infinitive
+    - I tend to forget people's names.
+    - We have a tendency to get together on Sundays.
+- As a rule, + a clause
+    - As a rule, I try not to work at weekends.
 ## Past Simple
 ### Active
 #### Использвание
-- Активная форма используется для фокусировки на субъекте
+- Для основных событий истории
 - Чтобы рассказать о завершившемся событии, привычке или состоянии в опредленное время в прошлом
 - чтобы говорить о последовательных событиях или ситуациях в прошлом
     - John woke up early in the morning, had breakfast and left for work.
@@ -38,6 +84,7 @@
 - We hired a boat for the party last weekend.
 - We bought a big birthday cake yesterday.
 - I walked to the store.
+- I heard a notification and picked up my phone.
 ##### -
 ###### S + did not + V
 - She didn't come back yesterday.
@@ -45,16 +92,25 @@
 - They didn't invite Olly to the wedding ceremony.
 - Did you ask your guests for a birthday present?
 - He didn't like the film.
+- He saw me but didn't say "Hello".
 ##### ?
-###### (Wh-word) + Did + S + V?                          
+###### Was/were + S + ... ?
+- Were you at work?
+###### Did(auxiliary) + S + V? (вопрос о действии)                       
 - Did you finish that task yesterday?
 - Did she have a break yesterday?
+- Did they pass the exams yesterday?
+###### Question word + did(auxiliary) + S + V + ... ?(object question)
 - When did you arrive at the party?
+- When did he come back home?
+###### Who / what / which + Ved/V2 + ... ?( subject question - не используем auxiliary если вопрос о субъекте)
+- What made you so happy?
 ### Passive
 #### Использвание
 - Используется чтобы сказать, что происходит с субъектом
 - Часто используется когда субъект не известен или не важен, если надо субъект помечается через by.
 - Когда нужно сфокусироваться на самом действии, а не субъекте
+- когда пишеле исследовательскую работу или отчет
 
 #### Формы
 ##### + 
@@ -67,6 +123,7 @@
 - This picture wasn't painted by James.
 - The book wasn't written by Jack.
 - Olly was not invited to the wedding ceremony.
+- This rug was made in Thailand.
 ##### ?
 ###### (Wh-) + was/were + S + Ved/V3…?                         
 - Was this picture painted by James?
@@ -75,7 +132,7 @@
 ## Past Perfect
 ### Active
 #### Использвание
-- Для того чтобы говорить о чем-то что закончилось перед другим событием в прошлом
+- Для того чтобы говорить о чем-то что закончилось перед основными событиями в прошлом
     - She had moved to the USA before she turned eight.
     - By the time I arrived at the station, the train had already left.
 - Чтобы подчеркнуть факт того какое событие произошло первым, Past Perfect для события которое произошло первым, Past Simple для более позднего
@@ -98,21 +155,42 @@
 - When I came back, my dog had already eaten my shoes.
 - The thief had escaped before the police arrived.
 - I had finished my work before the meeting started.
+- He understood that he had left the keys in the car.
 ##### -
 ###### I/you/we, etc + had not + V3/ed
 - She was surprised because she had not = hadn't seen dolphins before.
 - I had not read this book before I watched the movie.
 - They hadn't eaten breakfast before they left the house.
+- Dan remembered that he hadn't registered on that website a week before.
 ##### ?
 ######  Had + subject + V3/ed                         
 - Had you read this book before I told you about it?
 - Had you met him before you left for London?
+- Had they known the exam results before they saw the website page?
 ###### Wh-word + had + S + V3/ed?
 - Where had he lived before he moved to this town?
 - Had you ever been to New York before last year?
 - Короткие ответы:
     - Yes, I/ he/ we, etc. had.
     - No, I/ he/ we, etc. hadn’t.
+### Passive
+#### Использвание
+- Когда не известно кто совершает действие
+- Когда не важно кто совершает действие
+- Когда пишете исследовательскую работу или отчет
+#### Ключевые слова
+
+#### Формы
+##### + 
+###### had + been + Ved/V3
+- The message had been sent by 6 p.m. yesterday.
+
+##### -
+######
+- 
+##### ?
+######                           
+-
 ## Present Simple
 ### Active
 #### Использвание
@@ -183,15 +261,20 @@
 - They don’t work for this company.
 - They do not watch TV.
 ##### ?
-###### Am/Is/Are + S                            
--  Are you busy every day?
+###### Am/Is/Are + S ?                          
+- Are you busy every day?
+- Are you angry?
 ###### Question word/phrase + am/is/are + S      
 - What is your favourite sport?      
-###### Do/Does + S + V
+###### Do/Does + S + V?
 - Does he work out every morning?
 - Do you like coffee?
-###### Question word/phrase + do/does + S + V
+- Do you have a hobby?
+###### Question word/phrase + do/does(auxiliary) + S + V(object question)
 - What time does the match start?
+- Who do you call most often?
+###### Who/What/Which + V(s) + ...? (subject question - не спользуем auxiliary если вопрос о субъекте)
+- Who calls you most often?
 ### Passive
 #### Использвание
 - Часто используется когда субъект не известен или не важен, если надо субъект помечается через by.
@@ -213,45 +296,69 @@
 - This aeroplane is manufactured by Boeing.
 - The pictures are designed by Lilly Baker.
 ## Present Continuous
-
-### Использвание
+### Active
+#### Использвание
  - действия которые выполняются сейчас
  - временные ситуации
- - для выражения будущего, если говорить о планах на событие которое точно случиться
+ - для выражения будущего, если говорить о договоренностях которые точно реализуются( что-то что уже организованно или получено согласие)
     - I am meeting my friends for dinner tonight.
     - I am having dinner with Mary tonight.
+    - I am flying to Madrid in a month, I’ve already bought the ticket.
     
-### Ключевые слова
+#### Ключевые слова
 - at the moment
 - now
 - right now
+- at present
+- currently
 - today
-- this week/month etc.
+- still
+- this week/month/days etc.
 
-### глаголы
-#### + 
-##### S + am/is/are + Ving*
+#### Формы
+##### + 
+###### S + am/is/are + Ving*
 - She is reading a book at the moment.
 - He is studying for his exams.
-#### -
-##### S + am/is/are + not + Ving
+##### -
+###### S + am/is/are + not + Ving
 - This week they are not working.
 - We are not going to the party.
- #### ?
-##### Am/Is/Are + S + Ving                      
+##### ?
+###### Am/Is/Are + S + Ving                      
 - What are you doing now?
 - Are they playing football?
-###### При добавлении вопросительного слова
- - Question word/phrase + am/is/are + S + Ving
- - What are you doing now?
+- Is he working right now?       
+###### Question word + are/is/am(auxiliary) + S + Ving + ... ? (object question)
+- What are you doing now?
+###### Who / what / which + is/are + Ving + ... ? (subject question)
+- Who is playing in the garden? 
+### Passive
+#### Использвание
+- Когда вы не знаете кто выполняет действие
+- Не важно кто вылняет действие
+- вы пишете исследовательскую работу или отчет
+#### Ключевые слова
+
+#### Формы
+##### + 
+###### am/is/are + being + Ved/V3
+- The dish is being cooked now.
+##### -
+######
+- 
+##### ?
+######                           
+-   
 ## Present Perfect
 ### Active
 #### Использвание
 - Используется чтобы говорить о завершенном действии в неопределенный момент с результатом в настоящем, с фокусом на завершенности действия и результате
-- О незавершенный действиях
+- о состояних которые начались в прошлом и продолжаются до настоящего времени.
 - Чтобы сделать акцент на завершенности действия в период времени который еще не завершен
     - I have written an essay. I can go for a walk.
 - Жизненных опытах ( I have seen many countries.)
+- недавно завершенных событиях
 - В отрицательных предлоежниях для выражения отсутствия действия или события
     - I haven't spoken to Eliza since May. (=The last time I spoke to her was in May.)
 - Используется с глаголами состояний, с глаголами действий используется Present Perfect Continous 
@@ -305,6 +412,9 @@
 - S + have/has + not + V3/ed + …. yet
 ###### ? 
 - Question word + have/has + S + V3/ed … yet?
+##### lately
+##### recently
+##### so far
 
 ##### используется for и scince в ответах на вопросы how long( for 5 years, since they started university)
 ##### Используется It is/ It has been + scince (It has been 5 years since he moved to this city)
@@ -312,6 +422,7 @@
 ##### + 
 ###### I/You/We/They + have + V3/Ved (He/She/It + has + V3/Ved)
 - I have stayed in this hotel since Friday.
+- I have known my best friend since I was a kid!
 - They have been to Spain three times.
 - Alex has never tried diving.
 - Peter has done this exercise really quickly.
@@ -319,15 +430,39 @@
 ###### I/You/We/They + have not (=haven't) + V3/Ved (He/She/It + has not (=hasn't) + V3/Ved)
 - He hasn't travelled around the country for 2 years.
 - We haven’t been to a concert.
+- He hasn't been to Germany.
 - He hasn't travelled abroad.
 - Katty hasn't visited the office this week.
 ##### ?
 ###### Have + I/you/we/they + V3/Ved (Has + He/she/it + V3/Ved)    
 - Have you been to that resort?
 - Have you ever been in love?
-###### (Wh-word) + have + I/you/we/they  + Ved/V3? ((Wh-word) + has + he/she/it + Ved/V3?)
+- Have you visited your parents this month?
+- Have you washed the car yet?
+###### (Wh-word) + have(auxiliary) + I/you/we/they  + Ved/V3? ((Wh-word) + has + he/she/it + Ved/V3?)(object question )
 - Where have you worked in your life?
 - Why have you missed the class?
+- How many hours has she worked this week?
+###### Who / what / which + have/has + Ved/V3 + ... ?(subject question)
+- Which country has impressed you the most?
+### Passive
+#### Использвание
+- Когда не известно кто совершает действие
+- Когда не важно кто совершает действие
+- Когда пишете исследовательскую работу или отчет
+#### Ключевые слова
+
+#### Формы
+##### + 
+###### have/has + been + Ved/V3
+- The food has been bought.
+
+##### -
+######
+- 
+##### ?
+######                           
+-
 ## Present Perfect Continuous
 ### Active
 #### Использвание
@@ -371,7 +506,6 @@
         - No, I / he / we / etc. haven’t/ hasn’t.
     - Where has he been living?
     - What has he been doing all this time?
-
 ## Past Perfect Continuous
 ### Active
 #### Использвание
@@ -396,7 +530,8 @@
 ###### (Wh-word) + had + I/you/we, etc. + been + Ving                          
 - Had you been waiting long before I arrived?                     
 ## Past Continuous
-### Использвание
+### Active
+#### Использвание
 - чтобы рассказывать о фоновых событиях
     - The sun was shining and the birds were singing while the kids were playing in the park.
 - чтобы рассказать о событиях которые были в процессе в определенное время в прошлом когда произошли другие события
@@ -405,27 +540,45 @@
 - Специальные случаи
     - past continuous + when/while past continous(He was cooking while she was reading)
         
-### Ключевые слова
+#### Ключевые слова
 - at that time
 - still
 - all...(all day long)
 - from...till...
 - the whole ...
 - while
-### Формы
-#### + 
-##### S + was/were + Ving
+#### Формы
+##### + 
+###### S + was/were + Ving
 - I was working on my new project yesterday at 10 o’clock.
 - She was talking on the phone when I walked into the room.
 
-#### -
-##### S + was/were + not + Ving
+##### -
+###### S + was/were + not + Ving
 - She wasn't listening to music at that moment.
-They weren't playing basketball because it was raining outside.
-#### ?
-##### (Wh-word) +Was/Were + S + Ving?                         
+- They weren't playing basketball because it was raining outside.
+- We weren't driving the car between 3 and 4 p.m.
+##### ?
+###### (Wh-word) + Was/Were + S + Ving?                         
 - Were you studying at 2 p.m.?
 - What were you thinking when you decided to quit your job?
+- Were you typing the report when the boss was talking on the phone?
+### Passive
+#### Использвание
+- Когда не известно кто совершает действие
+- Когда не важно кто совершает действие
+- Когда пишете исследовательскую работу или отчет
+#### Ключевые слова
+#### Формы
+##### + 
+###### was/were + being + Ved/V3
+- The bike was being fixed yesterday in the morning.
+##### -
+######
+- 
+##### ?
+######                           
+-
 ## Выражение отношения нравится/не нравится
 
 ### Ключевые слова
@@ -455,10 +608,12 @@ They weren't playing basketball because it was raining outside.
 - Do they enjoy gardening?
 ## to be going to
 ### Использвание
-- для выражения намерения в будущем
+- для выражения намерения о будущем, планы которые сделаны до момента говорения
     - We are going to visit our grandparents over the weekend.
+    - I am going to do some work-out next week.
 - для планов, решений и предсказаний основанных на доказательствах
     - Look at those dark clouds. It's going to rain soon.
+    - It’s so dark and windy! I think it is going to rain soon.
 - действие которые начали выполняться
 ### Ключевые слова
 ### Формы
@@ -477,39 +632,67 @@ They weren't playing basketball because it was raining outside.
 - When are they going to move? 
 - Are students going to take paper exams this year?
 - Is he going to travel abroad?  
-
 ## Future Simple
-
-### Использвание
+### Active
+#### Использвание
 - факты о будущем в которых мы не полностью уверены, часто с probably
     - It will probably rain tomorrow.
 - прогнозы на будущее основанные на личном мнении или знаниях(Аналоги i think)
     - I think she will win the competition.
     - They won't be late for the meeting.
+    - I think I will go to the cinema in the evening.
+    - The bike won’t break , it's brand-new.
 - решения принятые в момент говорения
-- обещания и надежд на будущее
+    - I see this bag is heavy. I will help you.
+- обещания и надежды на будущее
     - We will make sure to deliver the results on time.
+    - I promise, I will return your book tomorrow.
 - предложения
 
-### Ключевые слова
+#### Ключевые слова
 
-### формы
-#### + 
-##### S + will (’ll) + V
+#### формы
+##### + 
+###### S + will (’ll) + V
 - I think Tom will be at home before 9.
 - I think many people will have smart houses in the future.
 - She will visit her grandparents tomorrow.
-#### -
-##### S + will not (won’t) + V
+##### -
+###### S + will not (won’t) + V
 - What would you like for dessert?
 - I won’t have a dessert. Thank you.
 - In 20 years, we will not (=won't) use cash money.
 - They will not attend the meeting.
-#### ?
-##### Will + S + V 
+##### ?
+###### Will + S + V?(когда просих кого-то что-то сделать)
 - Will you be at home tomorrow?
+- Will you have time for your hobby tomorrow?
 - Will people stop reading paper books in the near future?
-- Will you come to the concert?     
+- Will you come to the concert? 
+###### Shall + S + V?(для предложений и советов)
+- Shall I open the window?
+######  Question word + will(auxiliary) + S + V + ... ? (object question)
+- When will you be home?
+###### Who / what / which + will + V (base form) + ... ? (subject question)
+- Who will bring us some coffee?
+### Passive
+#### Использвание
+- Когда не известно кто совершает действие
+- Когда не важно кто совершает действие
+- Когда пишете исследовательскую работу или отчет
+#### Ключевые слова
+
+#### Формы
+##### + 
+###### will be + Ved/V3
+- The restaurant will be built next year.
+
+##### -
+######
+- 
+##### ?
+######                           
+-
 ## Артикли
 ### Использвание
 - a/an используется с исчислимыми существительными единственного числа
@@ -666,8 +849,10 @@ They weren't playing basketball because it was raining outside.
 ##### перед next/last + day, week, etc.
 - See you next weekend.
 - I met him last year.
-
 ## Модальные глаголы
+### Passive modal
+- modal + be + Ved/V3
+    - The rules must be followed.
 ### Should
 #### Использование
 - Используется чтобы дать совет
@@ -714,6 +899,7 @@ They weren't playing basketball because it was raining outside.
 - Dan has an easy job, so he doesn't have to work hard. (=he can work hard, but it's not necessary)
 ### Must
 #### Использование
+- Используется когда вы уверены в чем-то
 - Используется когда что-то необходимо что-то сделать 
 - Когда обязательства идут от самого говорящего
 - Для правил и законов
@@ -721,6 +907,7 @@ They weren't playing basketball because it was raining outside.
 ##### + Для настоящего времени
 ###### S + must + V
 - All passengers must wear seat belts.
+- You must be very happy about going to Greece.
 ##### ? Не используется
 ### Must not(Mustn't)
 #### Использование
@@ -731,18 +918,24 @@ They weren't playing basketball because it was raining outside.
 - You mustn't feed animals in the zoo.
 ### May/Might
 #### Использование
-- Для выражения возможности, вероятности действия в будущем
+- Для выражения возможности, вероятности действия в будущем, но вы не уверены
 #### Формы
 ##### + 
 ###### Subject + may/might + V1
 - More people may/might use electric cars soon.
+- Sarah might be at home, actually. I think she returned yesterday, but I'm not sure.
 ##### - Negative contractions are very rare (mightn't/mayn't)
 ######  ubject + might/may not + V1 
 - Homeschooling may/might not replace ordinary schools.
 ##### ?
 ######  Don't start questions about possible future events with may/might.Use "Do you think ... may/might ... ?"
 - Do you think we may/might live without the Sun?
-
+### Can't
+#### Использование
+- Когда вы уверены что что-то не может быть правдой
+#### Формы
+##### Can't + V (base form)
+- They can't be online, they are far from civilisation right now!
 ## Еще про будущее
 ### to be about to
 - чтобы сказать о событиях которые очень скоро случаться, или начаниют случаться
@@ -773,12 +966,14 @@ They weren't playing basketball because it was raining outside.
             - What do you mean to do with that information?
 ## Used to(would) / be used to / get used to
 ### Использование
-- (would более формальное)used to + V используется для рассказа о повторяющихся действиях или состояних которые были в прошлом но больше не актуальны, 
+- used to + V используется для рассказа о повторяющихся действиях или состояних которые были в прошлом но больше не актуальны, 
     - She used to avoid eating vegetables, but now she can't imagine a meal without them.
     -  As children, we would play computer games after school. As children, we used to play computer games after school.
-    - would не используется для stative verbs в прошлом времени
+- would + V
+    - would используется только с глаголами действий и когда время в которое это происходило явно указано.
+    - would не используется для stative verbs 
         - заменяется на used to: My grandma used to be a teacher when she was younger
-    - would используется толльков в утвердительных предложениях
+    - would используется только в в утвердительных предложениях
         - I didn’t use to go abroad on holiday when I was a child. Did you use to go abroad on holiday when you were a child?
     - would используется чтобы подчеркнуть факт того что это было **типично** для человека или ситуации, used to используется для просто сообщения факта
         - It used to snow on the first day of winter when I was a child. It would always snow on the first day of winter when I was a child.
@@ -787,23 +982,29 @@ They weren't playing basketball because it was raining outside.
 - to get used to + Ving для того чтобы подчеркнуться, что что-то становится повторяющимся или привычкой сейчас, чтобы поговорить о процессе
     - We will get used to eating healthily.    
 ### Формы
-- used to(would) + V ( за этим следует инфинитив)
+- used to + V ( за этим следует инфинитив)
     - +
-        - S + used to(would) + V
+        - S + used to + V
             - He used to work hard.
-            - I would eat a lot of junk food when I was a student.
             - Mike used to be a doctor. Now he is a teacher.
             - We used to visit the village every weekend.
+            - I used to be afraid of dogs, but now I am not.
     - -
         - S + did not + use to + V
             - He didn’t use to work hard.
             - I didn't use to like rock music.
             - There did not use to be so many cars in the past.
+            - I didn't use to eat a lot of sweets when I was a child.
     - ?
         - (Qw) + did + S + use to + V
             - Did he use to work hard?
             - Did you use to have red hair?
-            - - How often did you use to smoke?
+            - How often did you use to smoke?
+            - Did the building use to be a post office?
+- would + V
+    - + S + would + V (base form)
+        - Each summer I would visit my grandparents.
+        - I would eat a lot of junk food when I was a student.
 - be used to + (doing)Ving (существительное, местоимение, герундий)
     - +
         - S + be used to + Ving
@@ -914,21 +1115,27 @@ They weren't playing basketball because it was raining outside.
 Jack and Ivan are such clever boys!
 ## Conditionals
 ### First conditional 
-#### If + Presetn Simple, Future Simple (используется запятая)
-- If they save enough money, they will buy a flat.
-#### Future Simple if + Present Simple
- - You will not get much privacy if you rent a flat.
-### Second conditionla
 #### Использование
-- Используется для того чтобы сказать о воображаемой или гипотетической ситуации в настоящем или будущем. 
+- Используется для речи о **реалистичных** условиях и возможностях
+- Используется для настоящего и будущего
+#### Формы
+##### If + Present Simple, Future Simple (используется запятая)
+- If they save enough money, they will buy a flat.
+##### Future Simple if + Present Simple
+ - You will not get much privacy if you rent a flat.
+ - I will buy this book if i have money next week
+
+### Second conditional
+#### Использование
+- Используется для того чтобы сказать о воображаемой(**не реалистичной**) или гипотетической ситуации в настоящем или будущем. 
 #### Формы
 ##### +
 - if-part              
-    - If + S + V2/ed  
-        
+    - If + S + V2/ed          
 - main part        
     - S + would + V
-- I would always sort the rubbish if I had a lot of time. 
+- I would always sort the rubbish if I had a lot of time.
+- I would buy this book if I had money. 
 ##### -
 - if-part
     - If + S + didn't + V       
@@ -943,11 +1150,34 @@ Jack and Ivan are such clever boys!
 - Would you go to Antarctica if you wanted to see penguins?
 
 ##### You can use "were" as a form of "to be" for he/she/it in the if-part.
-- f he was/were my son, I would like him to be an environmental scientist.
+- If he was/were my son, I would like him to be an environmental scientist.
 ##### You can change the order of the sentence parts; use a comma if the if clause is at the beginning of the sentence.
 - If I was/were in Egypt, I would need to drink a lot of water because of hot weather. 
 - I would need to drink a lot of water because of hot weather if I was/were in Egypt.
-## Infinitive with to
+### Third conditional
+#### Использование
+- Используется для того чтобы сказать о воображаемой(**не реалистичной**) или гипотетической ситуации в прошлом. 
+#### Формы
+##### f + S + had + V (past participle), S + would have + V (past participle)
+- If we had saved more money, we would have bought a better car.
+- I would have prepared my presentation in time if I hadn't gone to the party.
+### Mixed conditional
+#### Использование
+- Мы можем смешивать Second и Third Conditional чтобы передать более точное значение в некоторых ситуациях
+#### Формы
+- Past condition + present result
+- If + Past Perfect, "would"/"wouldn't" + bare infinitive
+    - if условие указывает на воображаемое прошлое, основная часть на воображаемое настоящее
+        - If I had had my coffee in the morning, I would feel so much better now.
+- Present condition + past result
+- If + Past Simple, "would"/"wouldn't" + "have" + V3
+    - if условие указывает на воображаемое настоящее, основная часть указывает на воображаемое прошлое
+        - I wouldn't have spilt my coffee if they served it in normal cups.
+        - I would not have bought a second wi-fi router if I lived in a low-income country.
+    - можно менять порядок следования, тогда ставится запятая
+
+
+## Infinitive
 ### Verb/adjective+infinitive
 #### Ключевые слова(после которых обычно следует infinitive)
 - easy
@@ -962,10 +1192,21 @@ Jack and Ivan are such clever boys!
 - nice
 - careless
 #### Формы
+##### Passive 
+- to be + Ved/V3
+    - There is only one thing to be done.
 ##### Subject + to be +adjective + to + V
 - It is easy to start recycling at home.
 ##### Subject + to be +adjective + of + noun/pronoun + to + V
  - It was kind of me/you/them/us/him/her to invite Jack to the party.
+##### Subject + Verb + Object (optional) + "to" + Verb
+- Объясняет цели простых ежедневных действий, когда вы хотите объяснить почему вы что-то делаете
+    - I go to work to earn money.
+    - I work out to keep fit.
+##### "It's" + Adjective + "to" + Verb
+- Когда вы оцениваете качество или сложность активности
+    - It's difficult to learn a new language.
+    - It's exciting to try new foods.
 ###  Want to, would like to
 #### Формы
 ##### Want to + V
@@ -1126,7 +1367,10 @@ Jack and Ivan are such clever boys!
     - Используй Present Simple в обоих частях если утверждение верно
         - Nobody understands how Roberto can speak so many languages!
 
-
+## Geridn
+### Passive
+- modal + be + Ved/V3
+    - The rules must be followed.
 ## Template
 ### Active
 #### Использвание
