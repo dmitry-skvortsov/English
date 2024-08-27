@@ -853,6 +853,47 @@
 ### Passive modal
 - modal + be + Ved/V3
     - The rules must be followed.
+### Can
+#### Используется 
+- чтобы говорить о возможностях
+- имеет только настоящие и прошлые формы
+- could используется для описания general abilites в прошлом
+    - I could swim well when I was a child.
+#### Формы
+##### +
+######  can + V (could + V)
+- Sarah can read fast.
+- Sarah could read two books a week when she was a child.
+##### -
+######  cannot (can't) + V (could not (couldn't) + V)
+- We can't speak French.
+- We couldn't speak French two years ago.
+##### ?
+######  (wh-) + can + S + V … ? ((wh-) + could + S + V … ?)
+- What can you do well?.
+- Sarah could read two books a week when she was a child.
+### to be able to
+#### Использование
+- чтобы говорить о возможностях
+- может использоваться в любых временах
+- was able to используется для описания специфической ситуации в прошлом
+    - I was able to swim across the big lake when I was a child.
+#### Формы (для любых времен, здесть преведены только некоторые)
+##### +
+###### am/are/is able + to V ( was/were able + to V, will be able + to V ) 
+- I'm able to speak French.
+- We were able to speak French when we were children.
+- Jan will be able to speak French when he finishes the course.
+##### - 
+###### am not/are not/is not able + to V (was/were not able + to V, will not be able + to V)
+- He isn't able to cook well.
+- Mindy wasn't able to cook well earlier.
+- Anna won't be able to cook well even if she finishes the course.
+##### ?
+###### (Wh-) + am/are/is + S + able + to V…? ((Wh) + was/were + S + able + to V …?, (Wh) + will + S + be able + to V …?)
+- Are you able to help me?
+- What were you able to do well as a child?
+- Will you be able to help me tomorrow?
 ### Should
 #### Использование
 - Используется чтобы дать совет
