@@ -1219,7 +1219,7 @@ Jack and Ivan are such clever boys!
 
 
 ## Infinitive
-### Verb/adjective+infinitive
+### adjective+infinitive
 #### Ключевые слова(после которых обычно следует infinitive)
 - easy
 - hard
@@ -1248,7 +1248,48 @@ Jack and Ivan are such clever boys!
 - Когда вы оцениваете качество или сложность активности
     - It's difficult to learn a new language.
     - It's exciting to try new foods.
-###  Want to, would like to
+#### Другие формы
+- Используется как субъект
+    - To run is good exercise.
+- Используется как объект
+    - I like to swim.
+- Для выражения стремлений и намерений
+    - I came to study.
+- Только инфинитив после
+    - would like
+        - i would like to help
+    - hope
+    - decide
+    - agree
+    - wait
+    - want
+    - need
+    - afford
+    - offer
+    - promise
+    - plan
+    - choose
+    - (дублирование инф из Герундия) - После определенных глаголов может быть как gerund так и infinitive, **без смены смысла**
+        - begin
+        - continue
+        - prefer
+        - start
+        - love
+        - hate
+        - like
+            - I like to ski.  
+            - I like skiing.
+    - (дублирование инф из Герундия) После определенных глаголов может быть как gerund так и infinitive, **но со сменой смысла**
+        - stop
+            - He stopped drinking coffee. (He doesn't drink coffee any more.)
+            - He stopped to drink a cup of coffee. (He stopped something else in order to have a cup of coffee.)
+        - try
+            - Try swimming. (Try and see if you enjoy the activity.)
+            - Try to swim. (Make an effort to do it.)
+        - remember
+            - I remembered calling her. (I have a memory of calling her)
+            - I remembered to call her. (I remembered and then I called her)      
+##  Want to, would like to
 #### Формы
 ##### Want to + V
 - I want to understand how to help the environment.
@@ -1261,6 +1302,60 @@ Jack and Ivan are such clever boys!
 ##### ?
 ###### Would + subject + like to + V?
 - Would you like to start using eco-bags?
+## Gerund
+### Active
+- Заканчивается на -ing и используется как существительное
+    - Как субъект
+        - Reading enhances our knowledge.
+        - Running is good exercise.
+    - Как объекты
+        - She enjoys swimming.
+        - I like swimming.
+    - после предлогов
+        - She is interested in painting.
+        - I am interested in reading.
+    - После определенных глаголов, таких как:
+        - enjoy
+            - we enjoy hiking
+        - dislike
+        - suggest
+        - (don't) mind
+        - be used to
+        - avoid
+            - He doesn't mind waiting.
+        - can't help
+        - admit
+        - discuss
+        - regret
+        - allow
+        - imagine
+        - recommend
+        - consider
+    - Как объекты в фразовых глаголах
+        - She looks forward to meeting you.
+    - После определенных глаголов может быть как gerund так и infinitive, **без смены смысла**
+        - begin
+        - continue
+        - prefer
+        - start
+        - love
+        - hate
+        - like
+            - I like to ski.  
+            - I like skiing.
+    - После определенных глаголов может быть как gerund так и infinitive, **но со сменой смысла**
+        - stop
+            - He stopped drinking coffee. (He doesn't drink coffee any more.)
+            - He stopped to drink a cup of coffee. (He stopped something else in order to have a cup of coffee.)
+        - try
+            - Try swimming. (Try and see if you enjoy the activity.)
+            - Try to swim. (Make an effort to do it.)
+        - remember
+            - I remembered calling her. (I have a memory of calling her)
+            - I remembered to call her. (I remembered and then I called her)      
+### Passive
+- modal + be + Ved/V3
+    - The rules must be followed.
 ## Relative clauses
 ### Использование
 - who , which, that, where для дачи информации о ком-то или чем-то, важную для понимания о чем идет речь. В таких предложениях не используется запятая.
@@ -1408,10 +1503,7 @@ Jack and Ivan are such clever boys!
     - Используй Present Simple в обоих частях если утверждение верно
         - Nobody understands how Roberto can speak so many languages!
 
-## Gerind
-### Passive
-- modal + be + Ved/V3
-    - The rules must be followed.
+
 ## Template
 ### Active
 #### Использвание
