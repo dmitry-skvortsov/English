@@ -1219,7 +1219,7 @@ Jack and Ivan are such clever boys!
 
 
 ## Infinitive
-### adjective+infinitive
+### Формы
 #### Ключевые слова(после которых обычно следует infinitive)
 - easy
 - hard
@@ -1232,7 +1232,7 @@ Jack and Ivan are such clever boys!
 - silly
 - nice
 - careless
-#### Формы
+#### adjective+infinitive
 ##### Passive 
 - to be + Ved/V3
     - There is only one thing to be done.
@@ -1248,7 +1248,7 @@ Jack and Ivan are such clever boys!
 - Когда вы оцениваете качество или сложность активности
     - It's difficult to learn a new language.
     - It's exciting to try new foods.
-#### Другие формы
+#### еще
 - Используется как субъект
     - To run is good exercise.
 - Используется как объект
