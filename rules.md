@@ -1255,6 +1255,37 @@ Jack and Ivan are such clever boys!
     - I like to swim.
 - Для выражения стремлений и намерений
     - I came to study.
+    - We came there to talk to the professor.
+- Используется после прилагательных
+    - It is great to have so many friends.
+- Используется после too + прилагательное
+    - It is too cold to walk outside.
+- Использьуется после прилагательное + enough
+    - She is brave enough to ask him about it.
+- Используется bare infinitive( без to)
+    - после определенных глаголов
+        - let   
+            - Let me do this task for you.
+        - make
+            - He made me go with them.
+        - see
+        - hear
+    - после модальных глаголов
+        - can
+            - You can trust them.
+        - must
+        - should etc.
+- После определенных глаголов + noun/pronoun
+    - ask
+    - expect
+        - I expect you to come earlier today.
+    - hire
+    - invite
+    - teach
+    - tell
+    - warn
+    - advise
+    - allow
 - Только инфинитив после
     - would like
         - i would like to help
@@ -1263,6 +1294,7 @@ Jack and Ivan are such clever boys!
     - agree
     - wait
     - want
+        - What do you want to do today?
     - need
     - afford
     - offer
@@ -1308,17 +1340,20 @@ Jack and Ivan are such clever boys!
     - Как субъект
         - Reading enhances our knowledge.
         - Running is good exercise.
+        - Watching ads can be so boring.
     - Как объекты
         - She enjoys swimming.
         - I like swimming.
     - после предлогов
         - She is interested in painting.
         - I am interested in reading.
+        - My father is very good at remembering numbers.
     - После определенных глаголов, таких как:
         - enjoy
             - we enjoy hiking
         - dislike
         - suggest
+            - I suggest going out today.
         - (don't) mind
         - be used to
         - avoid
@@ -1333,7 +1368,7 @@ Jack and Ivan are such clever boys!
         - consider
     - Как объекты в фразовых глаголах
         - She looks forward to meeting you.
-    - После определенных глаголов может быть как gerund так и infinitive, **без смены смысла**
+    - После определенных глаголов может быть как gerund так и infinitive, **без смены смысла** ну или с очень малым изменением
         - begin
         - continue
         - prefer
@@ -1347,12 +1382,19 @@ Jack and Ivan are such clever boys!
         - stop
             - He stopped drinking coffee. (He doesn't drink coffee any more.)
             - He stopped to drink a cup of coffee. (He stopped something else in order to have a cup of coffee.)
+            - She stopped working when she was 65. (=She doesn’t work anymore.)
+            - He stopped to buy a cup of coffee. (=He stopped something else in order to buy a cup of coffee.)
         - try
             - Try swimming. (Try and see if you enjoy the activity.)
             - Try to swim. (Make an effort to do it.)
+            - Try to think where you saw your keys last. (=Make an effort to remember.)
+            - Try painting one picture. You might enjoy it. (=Try and see if you enjoy the activity.)
         - remember
             - I remembered calling her. (I have a memory of calling her)
-            - I remembered to call her. (I remembered and then I called her)      
+            - I remembered to call her. (I remembered and then I called her) 
+            - Remember to lock the door when you leave. (=Don't forget to do it.) 
+            - Do you remember ordering this book? (=Do you have a memory of this?)
+
 ### Passive
 - modal + be + Ved/V3
     - The rules must be followed.
