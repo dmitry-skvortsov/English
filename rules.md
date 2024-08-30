@@ -298,12 +298,19 @@
 ## Present Continuous
 ### Active
 #### Использвание
- - действия которые выполняются сейчас
- - временные ситуации
- - для выражения будущего, если говорить о договоренностях которые точно реализуются( что-то что уже организованно или получено согласие)
+- Для фокусировки на текущей или продолжающейся сущности действия
+- для описания действий которые происходят в этот самый момент говорения
+    - She is reading a book right now
+- действия которые обычно носят временный или ограниченных характер, а не постоянные
+    - He is living in New York for the summer.
+- для выражения будущего, если говорить о договоренностях которые точно реализуются( что-то что уже организованно или получено согласие), особенно когда время или место упоминается
     - I am meeting my friends for dinner tonight.
     - I am having dinner with Mary tonight.
     - I am flying to Madrid in a month, I’ve already bought the ticket.
+    - We are meeting them at 6 PM.
+- Тренды или изменение ситуации, используется для описания действий, которые начинают выполняться или тренды которые сейчас происходят
+    - More people are using electric cars
+
     
 #### Ключевые слова
 - at the moment
@@ -466,12 +473,17 @@
 ## Present Perfect Continuous
 ### Active
 #### Использвание
-- Используется чтобы говорить о незаконченных действиях которые начались в прошлом и не закончились до сих пор, с акцентом на действии не важно закончилось оно или нет
-- Если нужно сделать акцент именно на длительности
+- Фокусировка на том как долго что-то происходила, с акцентом на связи между прошлым и настоящем
+- Подсвечивает что действие началось в прошлом, все еще проолжается или влияет на настоящее
+- Используется чтобы говорить о незаконченных действиях которые начались в определенный момент в прошлом и не закончились до сих пор или закончились только что, с акцентом на **длительности** не важно закончилось оно или нет
+    - She has been studying for three hours.
+- Если нужно сделать **акцент** именно на длительности и продолжающейся натуре
     - I have been writing an essay for two hours. I haven't finished yet. I can’t go out.
+    - He’s out of breath because he has been running.
 - В отрицательных предлоежниях если нужен акцент на длительности
     - I haven't been speaking with Eliza long, just a couple of minutes. (=Our conversation started a couple of minutes ago.)
-- Чтобы говорить о закончившихся недавно действиях и имеют результаты в настоящем
+- Чтобы говорить о закончившихся недавно действиях и имеют результаты или влияние на настоящее
+    - We have been waiting for the bus for 20 minutes.
 - Используется с глаголами действий, иначе с глаголами состояний используется Present perfect
 #### Ключевые слова
 - this week/month/year etc.(указывает на не завершенный период времени)
@@ -1216,11 +1228,25 @@ Jack and Ivan are such clever boys!
         - I wouldn't have spilt my coffee if they served it in normal cups.
         - I would not have bought a second wi-fi router if I lived in a low-income country.
     - можно менять порядок следования, тогда ставится запятая
-
-
+##  Want to, would like to
+#### Формы
+##### Want to + V
+- I want to understand how to help the environment.
+##### + 
+###### Would like to (='d like to) + V
+- We would like to reduce (='d like to) the amount of meat we eat.
+##### - 
+###### Would not (=wouldn't) like to + V
+- He would not (=wouldn't) like to change his habits and start recycling.
+##### ?
+###### Would + subject + like to + V?
+- Would you like to start using eco-bags?
 ## Infinitive
 ### Формы
-#### Ключевые слова(после которых обычно следует infinitive)
+#### adjective+infinitive
+##### Используется после прилагательных
+- It is great to have so many friends.
+##### Ключевые слова
 - easy
 - hard
 - difficult
@@ -1232,7 +1258,6 @@ Jack and Ivan are such clever boys!
 - silly
 - nice
 - careless
-#### adjective+infinitive
 ##### Passive 
 - to be + Ved/V3
     - There is only one thing to be done.
@@ -1248,7 +1273,7 @@ Jack and Ivan are such clever boys!
 - Когда вы оцениваете качество или сложность активности
     - It's difficult to learn a new language.
     - It's exciting to try new foods.
-#### еще
+#### Выражают план, намерение или будущее действие(инфинитиная форма подчеркивает цель или назначение действия)
 - Используется как субъект
     - To run is good exercise.
 - Используется как объект
@@ -1256,8 +1281,7 @@ Jack and Ivan are such clever boys!
 - Для выражения стремлений и намерений
     - I came to study.
     - We came there to talk to the professor.
-- Используется после прилагательных
-    - It is great to have so many friends.
+
 - Используется после too + прилагательное
     - It is too cold to walk outside.
 - Использьуется после прилагательное + enough
@@ -1287,56 +1311,118 @@ Jack and Ivan are such clever boys!
     - advise
     - allow
 - Только инфинитив после
-    - would like
-        - i would like to help
-    - hope
-    - decide
-    - agree
-    - wait
-    - want
-        - What do you want to do today?
-    - need
-    - afford
-    - offer
-    - promise
-    - plan
-    - choose
+    - **would like**
+        - *i would like to help*
+    - **Agree**
+        - *She agreed to come to the party.*
+    - **Appear** 
+        - *She appears to be tired.*
+    - **Arrange**
+        - *They arranged to meet at noon.*
+    - **Aim**
+        - *He aims to finish by Friday.*
+    - **Ask**
+        - *He asked to leave early.*
+    - **Afford**
+    - **Attempt**
+        - *She attempted to climb the mountain.*
+    - **Beg**
+        - *He begged to stay longer.*
+    - **Care** 
+        - *Do you care to join us?*
+    - **Choose** 
+        - *She chose to stay at home.*
+    - **Claim** 
+        - *He claims to know the answer.*
+    - **Consent** 
+        - *She consented to be interviewed.*
+    - **Decide** 
+        - *They decided to go out.*
+        - *He decided to leave.* (expresses a future action or intention)
+    - **Wait**
+    - **Demand** 
+        - *He demanded to speak to the manager.*
+    - **Deserve** 
+        - *She deserves to win the prize.*
+    - **Expect** 
+        - *They expect to arrive early.*
+    - **Fail** 
+        - *He failed to finish on time.*
+    - **Happen** 
+        - *She happened to see him at the store.*
+    - **Hope** 
+        - *They hope to travel soon.*
+    - **Intend** 
+        - *He intends to study law.*
+    - **Learn** 
+        - *She learned to drive when she was 18.*
+    - **Manage** 
+        - *He managed to pass the exam.*
+    - **Offer** 
+        - *They offered to help.*
+    - **Plan** 
+        - *We plan to visit Italy next year.*
+        - *We plan to visit.* (a future action or goal)
+    - **Prepare** 
+        - *She prepared to give a speech.*
+    - **Pretend** 
+        - *He pretended to be asleep.*
+    - **Promise** 
+        - *She promised to call me.*
+        - *She promised to help.* (an intention or commitment for the future)
+    - **Refuse** 
+        - *He refused to answer the question.*
+    - **Seem** 
+        - *She seems to be happy.*
+    - **Struggle** 
+        - *He struggled to finish the project.*
+    - **Tend** 
+        - *She tends to be late.*
+    - **Threaten** 
+        - *He threatened to leave.*
+    - **Want** 
+        - *They want to go home.*
+    - **Wish** 
+        - *She wishes to travel the world.*
+    - **Need**
+    
+ 
+    
     - (дублирование инф из Герундия) - После определенных глаголов может быть как gerund так и infinitive, **без смены смысла**
         - begin
+            She began  to sing.
         - continue
+            - He continued to talk.
         - prefer
+            - I prefer to walk.
         - start
+            - They started to run.
         - love
+            - He loves to read.
         - hate
+            - They hate to be late.
         - like
             - I like to ski.  
-            - I like skiing.
+            - She likes  to swim.
     - (дублирование инф из Герундия) После определенных глаголов может быть как gerund так и infinitive, **но со сменой смысла**
+        - forget
+            Don't forget to meet him.(Action of meeting) 
         - stop
             - He stopped drinking coffee. (He doesn't drink coffee any more.)
             - He stopped to drink a cup of coffee. (He stopped something else in order to have a cup of coffee.)
+            - He stopped to smoke. (He stopped doing something in order to smoke)
+
         - try
             - Try swimming. (Try and see if you enjoy the activity.)
             - Try to swim. (Make an effort to do it.)
+            - Try to eat less sugar. (Make an effort to reduce sugar intake)
         - remember
             - I remembered calling her. (I have a memory of calling her)
-            - I remembered to call her. (I remembered and then I called her)      
-##  Want to, would like to
-#### Формы
-##### Want to + V
-- I want to understand how to help the environment.
-##### + 
-###### Would like to (='d like to) + V
-- We would like to reduce (='d like to) the amount of meat we eat.
-##### - 
-###### Would not (=wouldn't) like to + V
-- He would not (=wouldn't) like to change his habits and start recycling.
-##### ?
-###### Would + subject + like to + V?
-- Would you like to start using eco-bags?
+            - I remembered to call her. (I remembered and then I called her) 
+            - Remember to tell her. (Action of telling)     
 ## Gerund
 ### Active
-- Заканчивается на -ing и используется как существительное
+- Эти глаголы частно описывают действие или активность которые в процессе, продолжаются, или привычны. Концентнируется на продолжающейся природе действия
     - Как субъект
         - Reading enhances our knowledge.
         - Running is good exercise.
@@ -1349,48 +1435,105 @@ Jack and Ivan are such clever boys!
         - I am interested in reading.
         - My father is very good at remembering numbers.
     - После определенных глаголов, таких как:
-        - enjoy
-            - we enjoy hiking
-        - dislike
-        - suggest
-            - I suggest going out today.
-        - (don't) mind
-        - be used to
-        - avoid
-            - He doesn't mind waiting.
-        - can't help
-        - admit
-        - discuss
-        - regret
-        - allow
-        - imagine
-        - recommend
-        - consider
+        -  **Admit** 
+            - *She admitted making a mistake.*
+        -  **Advise** 
+            - *They advise taking precautions.*
+        -  **Allow** 
+            - *They don't allow smoking in the building.*
+        -  **Anticipate** 
+            - *We anticipate having a good time.*
+        -  **Appreciate** 
+            - *I appreciate your helping me.*
+        -  **Avoid** 
+            - *He avoids eating fatty foods.* (continuous effort to avoid)
+        -  **Complete** 
+            - *She completed writing her thesis.*
+        -  **Consider** 
+            - *They considered moving to another city.*(the action of considering is ongoing)
+        -  **Delay** 
+            - *He delayed responding to the email.*
+        -  **Deny** 
+            - *She denied breaking the vase.*
+        -  **Discuss** 
+            - *They discussed going on vacation.*
+        -  **Dislike** 
+            - *He dislikes waiting in line.*
+        -  **Enjoy** 
+            - *She enjoys reading books.* (emphasizes the ongoing pleasure of the activity)
+        -  **Escape** 
+            - *He escaped being caught.*
+        -  **Finish** 
+            - *She finished doing her homework.*
+        -  **Imagine** 
+            - *Can you imagine living in Paris?*
+        -  **Involve** 
+            - *The job involves traveling a lot.*
+        -  **Keep** 
+            - *He keeps forgetting to call.*
+        -  **Mention** 
+            - *He mentioned meeting her before.*
+        -  **Mind** 
+            - *Do you mind opening the window?*
+        -  **Miss** 
+            - *She misses talking to her friends.*
+        -  **Postpone** 
+            - *They postponed leaving for a week.*
+        -  **Practice** 
+            - *She practices playing the piano daily.*
+        -  **Recall** 
+            - *I recall meeting him at the party.*
+        -  **Recommend** 
+            - *They recommend taking the train.*
+        -  **Regret** 
+            - *He regrets not studying harder.*
+        -  **Resist** 
+            - *She couldn�t resist eating the cake.*
+        -  **Risk** 
+            - *He risks losing his job.*
+        -  **Suggest** 
+            - *She suggested going to the park.*
+        - **(don't) mind**
+            - *He doesn't mind waiting.*
+        - **be used to**
+        - **can't help**
     - Как объекты в фразовых глаголах
         - She looks forward to meeting you.
     - После определенных глаголов может быть как gerund так и infinitive, **без смены смысла** ну или с очень малым изменением
-        - begin
+        - begin 
+            - She began singing
         - continue
+            - He continued talking
         - prefer
+            - I prefer walking
         - start
+            - They started running
         - love
+            - He loves reading
         - hate
+            - They hate being late
         - like
-            - I like to ski.  
+            
             - I like skiing.
+            - he likes swimming
     - После определенных глаголов может быть как gerund так и infinitive, **но со сменой смысла**
+        - forget 
+            - I'll never forget meeting you (The memory of meeting)
         - stop
             - He stopped drinking coffee. (He doesn't drink coffee any more.)
             - He stopped to drink a cup of coffee. (He stopped something else in order to have a cup of coffee.)
             - She stopped working when she was 65. (=She doesn’t work anymore.)
             - He stopped to buy a cup of coffee. (=He stopped something else in order to buy a cup of coffee.)
+            - He stopped smoking. (He quit the habit)
         - try
             - Try swimming. (Try and see if you enjoy the activity.)
             - Try to swim. (Make an effort to do it.)
             - Try to think where you saw your keys last. (=Make an effort to remember.)
             - Try painting one picture. You might enjoy it. (=Try and see if you enjoy the activity.)
+            - Try eating less sugar. (Experiment with reducing sugar intake)
         - remember
             - I remembered calling her. (I have a memory of calling her)
+            - I remember telling you. (The memory of telling)
             - I remembered to call her. (I remembered and then I called her) 
             - Remember to lock the door when you leave. (=Don't forget to do it.) 
             - Do you remember ordering this book? (=Do you have a memory of this?)
