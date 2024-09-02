@@ -884,6 +884,14 @@
 ######  (wh-) + can + S + V … ? ((wh-) + could + S + V … ?)
 - What can you do well?.
 - Sarah could read two books a week when she was a child.
+### Need
+#### Использование
+- служит чтобы сказать что, что-то необходимо или важно
+#### Формы (изменяется по временам)
+##### need to + infinitive
+- I'm tired. I really need to get some sleep.
+##### needed to + infinitive
+##### will need to + infinitive
 ### to be able to
 #### Использование
 - чтобы говорить о возможностях
@@ -906,14 +914,15 @@
 - Are you able to help me?
 - What were you able to do well as a child?
 - Will you be able to help me tomorrow?
-### Should
+### Should/Shouldn't
 #### Использование
-- Используется чтобы дать совет
+- Используется чтобы дать совет делать или не делать что-либо
 #### Формы
 ##### + 
-###### S + should + V
+###### S + should + V(infinitive)
 - You should apply for this job.
-
+- You should call your mum, she's worried about you.
+- You shouldn't eat so much unhealthy food.
 ##### -
 ###### S + should not (shouldn’t) + V
 - She shouldn't stay outside for too long.
@@ -935,7 +944,10 @@
 ### Have to
 #### Использование
 - Используется для разговора об обязательствах внешних по отношению к говорящему
-#### Формы
+#### Формы (изменяется по временам)
+##### Настоящее have/has to + infinitive
+##### Прошлое Had to + infinitive
+##### Будущее will have to + infinitive
 ##### + Для настоящего и прошлого времени
 ###### S + have to/has to/had to + V
 - We have to clean the house because it's messy after the party.
@@ -943,32 +955,36 @@
 ##### ?
 ######  Do/Does/Did + S + have to + V                        
 - Do I have to wash the dishes?
-### don't have to
+### don't have to/needn't
 #### Использование
-- Используется когда нет необходимости делать что-то
+- Используется когда нет необходимости делать что-то, но можно если хочется
 #### Формы
 ##### - Для настоящего и прошлого времени
-######  S + don't/doesn't/didn't + have to + V                        
+######  S + don't/doesn't/didn't + have to + infinitive/ needn't + infinitive                    
 - Dan has an easy job, so he doesn't have to work hard. (=he can work hard, but it's not necessary)
+- You don't have to wear a tie in our office.
 ### Must
 #### Использование
-- Используется когда вы уверены в чем-то
-- Используется когда что-то необходимо что-то сделать 
-- Когда обязательства идут от самого говорящего
-- Для правил и законов
+- Для описания настоящего или будущих персональных обязательство(для прошлого had to)
+- Для дачи настоятельного совета
+- Для правил и законов(особенно записаных)
 #### Формы
 ##### + Для настоящего времени
 ###### S + must + V
 - All passengers must wear seat belts.
 - You must be very happy about going to Greece.
+- I really must lose some weight.
+- You must see the new movie, it's brilliant!
+- You must fasten your seatbelt while travelling.
 ##### ? Не используется
 ### Must not(Mustn't)
 #### Использование
-- Когда что-то запрещено делать
+- Когда что-то запрещено делать или плохая идея
 #### Формы
 ##### - 
-###### + must not (mustn’t) + V 
+##### + must not (mustn’t) + infinitive
 - You mustn't feed animals in the zoo.
+- You mustn't use calculators in the exam.
 ### May/Might
 #### Использование
 - Для выражения возможности, вероятности действия в будущем, но вы не уверены
@@ -1648,10 +1664,6 @@ Jack and Ivan are such clever boys!
 - Few и a few используются с множественным числом исчислимых
     - They had few phones on this website so I checked a different one.
     - I have a few friends in this city, so I always have someone to talk to.
-
-
-
-
 ## Indirect Speach
 ### Использование
 - Чтобы передать то что сказал другой человек
@@ -1689,23 +1701,6 @@ Jack and Ivan are such clever boys!
         - Nobody understands how Roberto can speak so many languages!
 
 
-## Template
-### Active
-#### Использвание
-
-#### Ключевые слова
-
-#### Формы
-##### + 
-###### 
-- 
-
-##### -
-######
-- 
-##### ?
-######                           
--
 
 
 
