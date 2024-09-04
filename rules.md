@@ -917,18 +917,32 @@
 ### Should/Shouldn't
 #### Использование
 - Используется чтобы дать совет делать или не делать что-либо
+- Чтобы сказать что вы ожидаете чего-то что должно случиться или стало правдой
 #### Формы
 ##### + 
-###### S + should + V(infinitive)
+###### S + should + infinitive(without to)
 - You should apply for this job.
+- You should listen before you speak.
 - You should call your mum, she's worried about you.
 - You shouldn't eat so much unhealthy food.
 ##### -
-###### S + should not (shouldn’t) + V
+###### S + should not (shouldn’t) + infinitive(without to)
 - She shouldn't stay outside for too long.
+- You shouldn't eat this. It is not healthy.
+
 ##### ?
 ######  Should + S + V                         
 - Should I ask her about it?
+- Should I call a doctor?
+### Ought
+#### Использование
+- Используется чтобы дать совет делать или не делать что-либо
+- Чтобы сказать что вы ожидаете чего-то что должно случиться или стало правдой
+#### Формы
+##### + - 
+###### ought/ought not + infinitive (with "to")
+- You ought to read this before starting to write.
+- You ought not to mention this to him.
 ### Could
 #### Использование
 - Используется чтобы предложить возможные поведения
@@ -1005,6 +1019,13 @@
 #### Формы
 ##### Can't + V (base form)
 - They can't be online, they are far from civilisation right now!
+### Had better
+#### Использование
+- Чтобы дать совет, в несколько агрессивной ворме
+- Чтобы угрожать в явном виде
+#### Формы
+##### had better + infinitive (without "to")
+- You had better pay attention to what he is saying, or you'll be lost.
 ## Еще про будущее
 ### to be about to
 - чтобы сказать о событиях которые очень скоро случаться, или начаниют случаться
