@@ -1725,3 +1725,42 @@ Jack and Ivan are such clever boys!
 
 
 
+## Who, which, where
+### Определяющие относительные предложения
+- Используется для предостовления основной информации о персоне, месте, или том что это или что делает.
+Обычно используется сразу после существительного, которое оно описывает.
+    - Используете для соединения основной и относительной части
+        - who для людей
+            - He is the man who lives next to me.
+        - which для объектов
+            - Show me the dress which you bought yesterday.
+        - that для людей и объектов
+            - They are the builders that I’ve hired.
+        - where для мест
+            - This is the village where he was born.
+        - whose для указания принадлежности
+            - I am the woman whose son you speak of.
+        - when для времени
+            - That was the year when we met.
+    - Может опускаться если не является субъектом относительной части
+        - She is the girl (who) I met two days ago. (The subject of the relative clause is “I”, so we can leave out “who”)
+        - She is the girl who likes dancing salsa. (The subject of the relative clause is “who”, so we can’t leave it out)
+    - При использовании в этом формате не ставится запятая
+### Не определяющие относительные предложения
+- Используется для добавления расширенной информации в предложение. Когда она не обязательно и предложение останется грамматически  корректным если ничего не добавлять
+    - who для людей
+        - Kevin, who lives next to me, has just bought a dog.
+    - which для объектов
+        - Lucas helped me with the luggage, which was very kind of him.    
+  - where для мест
+        - She lived in New York for ten years, where she taught French.
+    - whose для указания принадлежности
+        - Alice, whose flat is downstairs, usually comes home very late.
+    - when для времени
+            - The last time we went to China was in April, when the weather was perfect.
+    - Обязательно используется запятая
+        - My sister, who works at the supermarket, is my best friend.
+    - Нельзя опускать местоимения
+        - Erick, whose car you’ve bought, has moved to the USA.
+    - Нельзя использовать that для замены who и which
+        - My parents, who are really into sport, are going to swim across the Bosphorus next year.
