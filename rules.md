@@ -1204,34 +1204,213 @@
 - He’s such a clever boy!
 Jack and Ivan are such clever boys!
 ## Conditionals
+### Would.... 
+- would you like = do you want? - чтобы предлагать что-либо
+    - Would you like some coffee?
+- would you like to - для приглашения
+    - Would you like to go for a walk?
+- I’d like = i would like - вежливая форма сказать i want
+### Другие уловные стуктуры как альтернативы к if
+- выражает нигативное условие, означеющее - если не, только если
+    - Unless ( except if.)
+        - Unless we leave now, we're going to be late.
+        - He won't come unless you ask him.
+- Even if(даже если)
+    - Even if you apologize, I'll never forgive you.
+- Otherwise(в противном случае)
+    - You should revise for your test, otherwise you won't pass it.
+- чтобы дать формальные инструкции
+    - In case (на тот случай, если)
+        - I'll buy some snacks in case I get hungry on the road.
+        - Write down my telephone number in case you forget.
+    - In (the) case of ( В случае)
+        - In (the) case of emergency, evacuate the building.
+        - In case of emergency, call this number.
+- когда условие необходимо для результата 
+    - Provided (that), Providing (that)(В случае чего)
+        - You can borrow my laptop, provided that you give it back to me before the weekend.
+        - You can have a pet provided that you promise to look after it.
+    - On condition that(при условии что)
+        - I allow my daughter to spend the night at her friend's house on condition that she calls me every two hours.
+    - As/so long as (Пока)
+        - This trip is going to be perfectly safe as long as you follow the guide's instructions.
+    - only if
+- чтобы говорить о воображаемых ситуации
+    - Suppose/Supposing(Предполагая)/Assuming/What if
+        - Suppose we discover alien life next year, what do you think will happen?
+        - Supposing something goes wrong, what then?
+        - Supposing you were late for the train, you would have to buy a new ticket, wouldn't you?
+        - What if I had accidentally revealed her secret?
+- If… should(если следует)
+    - If you should see Amy today, tell her to call me.
+- If… (should) happen to ( Если должно случится с)
+    - If you (should) happen to find my keys, can you put them on my table?
+- чтобы говорить о прошлых нужных условиях
+    - but for + noun
+        - But for your help, I wouldn't have been able to complete the task in time.
+### Zero
+#### Использование
+- Используется чтобы дать определение или выразить общий или научный факт
+    - Water starts boiling if the temperature is above 100 °C.
+- Повторяющиеся ситуации со стабильными результатами(всегда верно)
+    - If my son cleans his room, I let him play video games. (Repeated occasion: I do it every time.)
+    - If/When the temperature falls below 0, water turns into ice.
+    - If/When my husband has a cold, I usually catch it.
+- Можем использовать модальные глаголы и повелительные формы
+    - I can help you if I have time.
+    - If you have time tomorrow, call me.
+
+#### Формы
+##### If/When/Whenever(Когда же) + present tense, present tense
+- Whenever my children get good grades, I give them a small reward.
+- Present Simple + Present Simple
+    - If you walk in the rain, you get wet.
+    - If you mix all the colors, you get white. 
+    - If you eat a lot of fatty foods, you become overweight. 
+- Present Simple + Present Continuous
+    - Jane always brings me small gifts if she is travelling abroad.
+    - Fake gold darkens when it is being burnt. 
+- Present Perfect + Present Perfect
+    - You haven't lived unless you have heard Jimi Hendrix playing the guitar.
 ### First conditional 
 #### Использование
-- Используется для речи о **реалистичных** условиях и возможностях
-- Используется для настоящего и будущего
-#### Формы
-##### If + Present Simple, Future Simple (используется запятая)
-- If they save enough money, they will buy a flat.
-##### Future Simple if + Present Simple
- - You will not get much privacy if you rent a flat.
- - I will buy this book if i have money next week
+- Используется для речи о **реалистичных** или **скорее всего случащихся** условиях в настоящем и будущем и результатах в настоящем или будущем
+    - Our grandchildren might live in a very different world unless technological development slows down.
+    - If my children get good grades, I'll take them to the zoo.
+    - If I take them to the zoo, we're going to see a lot of animals there.
+    - When we see all the animals, my children will be very happy.
+    - And if they are happy, they might be even more motivated to study.
+- В разговоре мы используем be going to вместо настоящего времени
+    - If I'm going to catch the train, I‘ll have to leave now.
+    - We'll need more chairs if we're going to invite so many people to the performance.
+- Использовать повелительную форму, чтобы дать инструкции
+    - If you see a big red button, don't touch it!
+- Используется инвертация чтобы сделать предложение более иптатичным
+    - Should you happen to see Martha, please instruct her to come to my office.
+    - Had it not been for Mary’s laziness, she might do all the housework.
+- Можно использовать другие модальные или полу-модальные глаголы вместо will
+    - If I buy some cheese and milk, I can make French cream soup.
+    - We should/ought to arrive on time if the train doesn't make any stops.
+    - Mike has to tell Sarah the truth if he wants her to forgive him.
+- Альтернативы к if
+    - When/As soon as/After/Before/Until/While
+    Что-то возможно произойдет в определенное время
+        - When you come home, I'll call you.
+        - After I finish my homework, I'll have lunch.
+        - I'll look at the files before I go to bed.
+        - I'll call you when I get home.
+        - We'll announce the results as soon as they become available.
+        - Unless I finish my final report on time, I won't get a bonus.
+    - Мы готовы к чему-то что может случится
+    In case
+        - I'll take an umbrella in case it rains.
+        - I’ll leave my mobile phone switched on in case Jane calls. (= because it is possible she will call)
+        - I’ll draw a map for you in case you have problems finding our house. (= because it is possible you will have problems)
+        - I’ll remind them about the meeting in case they’ve forgotten. (= because it is possible they have forgotten)
+    - If not или only if
+    Unless
+        - Unless we do it now, it'll be too late. (= If we don't do it now, it’ll be too late.)
+        - I won't comment on your work unless you ask me to. (= I will only comment on your work if you ask me.)
+    - мы знаем что что-то может случится, беря во внимание, определенные условия(концессии)( provided(that), unless, uven if, althouh)
+        - Even if the boss is late, we'll start the meeting on time.
 
+#### Формы
+##### If/As long as/On condition that/Unless + present tense, future form/be going to (используется запятая)
+- If they save enough money, they will buy a flat.
+- If you explain the issue to me, I will be able to help you.
+- Unless we leave now, we will be late.
+- I will allow my daughter to spend the night at her friend's house on condition that she calls me every two hours.
+- If I do all my work on time, I'll spend some time with my family.
+- If you have revised, you'll have no problems with the exam.
+- If I stay at home, I am going to watch Mad Max.
+- Unless it rains, we will go to the festival. (Present Simple + Future Simple)
+- If you help me, I will have completed the assignment by Monday. (Present Simple + Future Perfect)
+##### Future tense if + Present tense
+- You will not get much privacy if you rent a flat.
+- I will buy this book if i have money next week
+- She won't go out unless she has recovered.(Future Simple + Present Perfect)
+- We will be playing cards all day long if it snows again.(Future Continuous/Perfect + Present Simple)
+##### If + present tense, any structure with future meaning
+- If my boss gives me a bonus next month, I hope to be able to buy a car.
+##### If/When + present tense, imperative(можно дать инструкции или предложение)
+- When you come home, text me that everything's fine.
+- If you don't feel well, go home!
+- Call the police immediately if you are witnessing a crime.
+- Don't call me if it is not an emergency.
+- Turn off the lights when you are going to sleep.
+##### If + present tense, modal verb + infinitive
+- If he apologises, I might forgive him.
 ### Second conditional
 #### Использование
-- Используется для того чтобы сказать о воображаемой(**не реалистичной**) или гипотетической ситуации в настоящем или будущем. 
+- Используется для того чтобы сказать о воображаемой(**не реалистичной**) или гипотетической ситуации в настоящем или будущем.
+    - If I were an only child, I wouldn't have to share my toys.
+    - If Tina worked harder, she would be a CEO by now.
+    - If Tina worked harder, she would be a CEO by now.
+    - Mike would look like Charles Dickens if he had a beard.
+    - If people could fly, we wouldn't need cars.
+    - People would care more about politics if they could understand it better.
+- Чтобы дать совет( If i were you) или попросить совета
+    - I wouldn't touch that insect if I were you.
+    - If I were you, I'd stop smoking so much.
+    - If I were you, I would think very carefully about that job offer.
+    - I wouldn't eat that if I were you.
+- можно использовать might, could, should вместо would
+    - We could have a dog if we didn't live in a tiny apartment.
+    - If I didn't have two dogs, I could travel more.
+    - Celine might be happier if she didn't work in tech support.
+- В разговорном американском говорящие иногда использоуют would в if части
+    - US: I don't know how I would react if I saw / would see a bear.
+    - UK: I don't know how I would react if I saw a bear.
+- В неформальном английском вы можем использовать и was и were(более формальный) после if
+    - Formal: If I were less busy with work, I'd spend more time with the kids.
+    - Informal: If I was/were less busy with work, I'd spend more time with the kids.
+- Можем инвертировать предложение для того чтобы звучало более импатично
+    - Were we to start using only renewable energy, it would still not solve the problem of pollution.
+- Другие условные структуры
+    - If it wasn't/weren't for + somebody/something
+        - If it wasn't/weren't for you, I'd feel very lonely.
+        - You wouldn’t be a manager if it wasn't/weren't for Mark's help.
+    - Were it not for + somebody/something
+        - Were it not for my friends, I would have a very hard time here.
+    - Provided that, Providing that
+        - Sam would be content with working for an international corporation provided that his salary was big enough.
+    - As/so long as
+        - I could live with a roommate as long as I had my own space.
+    - Suppose/Supposing
+        - Supposing your landlord evicted you, where would you live?
+    - If somebody/something were to
+        - Would it help the city if the mayor were to build more parks?
+    - If somebody/something happened to
+        -  If you happened to see a crime, what would you do?
+
 #### Формы
-##### +
-- if-part              
-    - If + S + V2/ed          
-- main part        
-    - S + would + V
+##### Можно импользовать would('d) + infinitive (без if) для того чтобы говорить о imaginary ситуациях
+- I would visit you.
+- I'd travel more.
+##### Использовать could + infinitive для гипотетической возможности
+- If he knew Jim, he could ask him about the job. (He does not know Jim, so he has no ability to ask him.)
+##### Если в if используется to be
+- Корретно использовать were для всех субъектов
+    - If I were you, I would apply for this job.
+- В разговорном ghb i, he, she, it часто используется was
+    - If he was a doctor, he would be able to help.
+##### + If + Past Simple/Continuous, would/wouldn't + bare infinitive
 - I would always sort the rubbish if I had a lot of time.
 - I would buy this book if I had money. 
-##### -
-- if-part
-    - If + S + didn't + V       
-- main part  
-    - S + wouldn't + V 
+- If I worked in a shop, I would have a discount on buying goods.
+- If Alex wasn't working tomorrow, he would be able to come to my party.
+- If I worked harder, I would have a better job.
+- If I worked in a shop, I would have a discount for buying goods.
+##### - If + S + didn't(wasn't etc) + V(-ing), S + wouldn't + V
 - If I didn't have a lot of money, I wouldn't buy a big house on the Mediterranean coast.
+- If I didn't know Allie, I wouldn't have a supportive friend.
+- If I wasn't working right now, I would help you.
+- If I didn't work in a shop, I wouldn't have a company discount.
+- If Ethan wasn't having a shower, he would come to the phone.
+- If Alex wasn't working tomorrow, he would be able to come to my party.
+##### If + Past Tense, might or could + infinitive
+- If I had more money, I might start my own business.
+- Annie could travel on her own if she was older.
 ##### ?
 - main part
     - Would + S + V
@@ -1246,25 +1425,94 @@ Jack and Ivan are such clever boys!
 - I would need to drink a lot of water because of hot weather if I was/were in Egypt.
 ### Third conditional
 #### Использование
-- Используется для того чтобы сказать о воображаемой(**не реалистичной**) или гипотетической ситуации в прошлом. 
+- Используется для того чтобы сказать о воображаемой(**не реалистичной**) или гипотетической ситуации в прошлом.
+    - We might have missed our train if we hadn't called a taxi.
+- Чтобы выразить сожаления по поводу прошлого
+    - If I had studied harder, I would have passed the exam.
+    - If I had told Jean that I loved her, she wouldn't have left me.
+    - If John had overslept, he would have missed his meeting.
+    - If my girlfriend hadn't been wearing a hat, I would have noticed her new haircut.
+- можно использовать might/could/should вместо would
+    - If I had found some investors, my company might not have gone bankrupt.
+    - If you had practised for the match, you could have won it.
+    - If you had done all the revision, you should have passed the exam.
+- если начинаем предложение с if, ставим запятую
+    - If I had the time, I would have helped you. = I would have helped you if I had the time.
+    - We might have missed our train if we hadn't called a taxi.
+- В разговорном Американском, иногда используется would в if части
+    - US: I don't know what I would have done if you hadn't / wouldn't have helped me.
+    - UK: I don't know what I would have done if you hadn't helped me.
+- Мы можем инвертировать предложения, чтобы получить более эмпатичную форму
+    - Had the apple not fallen on Newton's head, he might never have discovered the relationship between the motion of the moon and the motion of a body falling on the Earth.
+- Другие условные структуры
+    - If it hadn't been for + somebody/something
+        - If it hadn't been for the doctors, Ann would have died.
+    - Had it not been for + somebody/something
+        - Had it not been for your advice, I would have made a very bad decision.
+    - But for + somebody/something
+        - Chris would never have become a doctor but for the support of his parents.
+    - Suppose/Supposing
+        - Suppose Gabriel had said "no", what would you have done then?
 #### Формы
-##### f + S + had + V (past participle), S + would have + V (past participle)
+##### If + Past Perfect/ Past Perfect Continuous, would/wouldn't + have + V3
 - If we had saved more money, we would have bought a better car.
 - I would have prepared my presentation in time if I hadn't gone to the party.
+- If John had overslept, he would have missed his meeting.
+- If Mary hadn't overslept, she wouldn't have missed her flight.
+- Jack wouldn't have failed the exam if he had been studying better.
 ### Mixed conditional
 #### Использование
 - Мы можем смешивать Second и Third Conditional чтобы передать более точное значение в некоторых ситуациях
+    - чтобы создать mixed вы берем ситуацию в прошлом(third) и соединяем и его условие и его результат с настоящим (second)
+        - Для прошлых ситуаций с результатом в настоящем
+            - If I hadn't bought a laptop, I wouldn't be able to work on-the-go.
+            - Mary wouldn't have her own restaurant, had she not won that lottery.
+            - If Joe had listened to his parents, he would have studied medicine at University. (= He didn't listen to his parents in the past, so he didn't study medicine in the past.)
+            - If Joe had listened to his parents, he would be a doctor. (= He didn't listen to his parents in the past, so he isn't a doctor now.)
+        -  Для общих ситуаций с результатом в прошлом
+            - If I wasn't so forgetful, I wouldn't have lost my phone.
+            - Linda would have become a singer, if she had a good voice.
+            - If I had been more assertive, I would have defended my opinion. (= I wasn't assertive at a specific point in the past, and I didn't defend my opinion.)
+            - If I were more assertive, I would have defended my opinion. (= I am generally not an assertive person, so I didn't defend my opinion at some point in the past.)
+
+
+- Таймлайны:
+    - 1 
+        - past: I failed my interview
+        - now: I am not working for Google
+        - if i hadn't failed my interview, i would be working for google now
+    - 2 
+        - past: i lost my pnone
+        - always forgetful
+        - if i wasn't forgetful, i wouldn't have lost my phone
+
 #### Формы
 - Past condition + present result
 - If + Past Perfect, "would"/"wouldn't" + bare infinitive
     - if условие указывает на воображаемое прошлое, основная часть на воображаемое настоящее
         - If I had had my coffee in the morning, I would feel so much better now.
-- Present condition + past result
-- If + Past Simple, "would"/"wouldn't" + "have" + V3
+        - If you had followed the instructions, we wouldn't try to fix so many problems now.
+        - If I hadn't bought a laptop, I wouldn't be able to work on-the-go.
+        - If you had followed the instructions, we wouldn't try to fix so many problems now.
+        - If Jane hadn't been careful, she would be in a hospital.
+
+- General situating(present) + past result
+- If + Past Simple/Continuous, "would"/"wouldn't" + "have" + V3
     - if условие указывает на воображаемое настоящее, основная часть указывает на воображаемое прошлое
         - I wouldn't have spilt my coffee if they served it in normal cups.
+        - If Helen wasn't working on an important project, she would have spent the weekend with her friends.
         - I would not have bought a second wi-fi router if I lived in a low-income country.
+        - If Helen wasn't working on an important project, she would have spent the weekend with her friends.
+        - If I weren't so forgetful, I wouldn't have lost my phone.
+        - If we didn't already have three dogs, we would have adopted a cat we found last month.
     - можно менять порядок следования, тогда ставится запятая
+### Other conditional structures
+#### Использование
+#### Формы 
+##### If it hadn't been for + somebody/something, would/wouldn’t + have + V3
+- If it hadn't been for the head's commercial acumen, we would have lost our position in the market.
+##### But for + somebody/something, would/wouldn’t + have + V3
+- Chris would never have become a doctor but for the support of his parents.
 ##  Want to, would like to
 #### Формы
 ##### Want to + V
@@ -1722,9 +1970,6 @@ Jack and Ivan are such clever boys!
         - Nobody understands how Roberto can speak so many languages!
 
 
-
-
-
 ## Who, which, where
 ### Определяющие относительные предложения
 - Используется для предостовления основной информации о персоне, месте, или том что это или что делает.
@@ -1764,3 +2009,8 @@ Jack and Ivan are such clever boys!
         - Erick, whose car you’ve bought, has moved to the USA.
     - Нельзя использовать that для замены who и which
         - My parents, who are really into sport, are going to swim across the Bosphorus next year.
+## **TODO** 
+- in case(нужно узнать для случаев не входящих в обычные conditionals)
+- real and unreal conditionals with if 1, 2 в разделе грамматики
+- Conditional Clauses with Unless, As Long As, Provided, Providing
+- «Whether ... or not» and «on condition that» / «as long as» / «providing that» / «provided that»
