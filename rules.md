@@ -591,33 +591,7 @@
 ##### ?
 ######                           
 -
-## Выражение отношения нравится/не нравится
 
-### Ключевые слова
-#### для выражения того что нравится
-- love
-- like
-- enjoy
-- prefer
-- be crazy about
-#### для выражения того что не нравится
- - dislike
- - hate
- - be not a fan of
- - can't stand
-#### Использовать don't mind чтобы сказать что твое отношение нейтральное
- - don't mind
-### Формы 
-#### + 
-##### love/like/enjoy/dislike + V + -ing
-- I love doing puzzles.
-
-#### - 
-##### do not (don’t) / does not (doesn’t) + love/like/enjoy + V + -ing
-- She doesn’t like reading detective stories.
-#### ?
-##### Do/Does + subject + love/like/enjoy/dislike + V + -ing
-- Do they enjoy gardening?
 ## to be going to
 ### Использвание
 - для выражения намерения о будущем, планы которые сделаны до момента говорения
@@ -705,6 +679,45 @@
 ##### ?
 ######                           
 -
+## Future Continous
+### Active
+#### Использование
+- Используется для описания запланированных действий которые будут в процессе в определенный момент в будущем
+#### Формы
+##### **+** S + will + be + Ving
+- My brother will be running a marathon this weekend
+#####  **-** S + will not (won't) + be + Ving
+- I won't be working next week.
+##### **?** Will + S + be + Ving?
+- Will you be watching a new TV show at 6 pm today?
+### Passive
+## Выражение отношения нравится/не нравится
+
+### Ключевые слова
+#### для выражения того что нравится
+- love
+- like
+- enjoy
+- prefer
+- be crazy about
+#### для выражения того что не нравится
+ - dislike
+ - hate
+ - be not a fan of
+ - can't stand
+#### Использовать don't mind чтобы сказать что твое отношение нейтральное
+ - don't mind
+### Формы 
+#### + 
+##### love/like/enjoy/dislike + V + -ing
+- I love doing puzzles.
+
+#### - 
+##### do not (don’t) / does not (doesn’t) + love/like/enjoy + V + -ing
+- She doesn’t like reading detective stories.
+#### ?
+##### Do/Does + subject + love/like/enjoy/dislike + V + -ing
+- Do they enjoy gardening?
 ## Артикли
 ### Использвание
 - a/an используется с исчислимыми существительными единственного числа
@@ -1203,6 +1216,50 @@
 ##### such + article a (for singular countable nouns) + noun phrase (+ that)
 - He’s such a clever boy!
 Jack and Ivan are such clever boys!
+## Linking words
+
+### subordinate conjunctions
+#### Использование
+- Используется чтобы соединять разные части предложений
+- Чтобы соединять разные предлоежния
+#### Формы
+- Чтобы указать на причинно слледственную связь
+    - Therefore(поэтому, следовательно)
+        - He worked the hardest; therefore, he got a promotion.
+- Чтобы говорить о последствиях
+    - That's why
+        - That's why people like her.
+- Дополняет предыдущую информацию
+    - Also в начале предложения
+        - Also, having a Facebook friend in the U.S. will make you more interested in the events happening in the U.S.
+- Маркер для суммирования предыдущей информации
+    - So, if we had the wings, we might fly to that rock.
+- So в начале предложения
+- Контраст, используется в начале или середине предложения
+    - Although(хотя)
+        - Although/Though/Even though we often quarrel, we have always been a close family.
+    - though(хотя, все же) чуть более неформальное чем although, может идти в конце предложения
+    - even though(не смотря на) сильнее чем although
+        - - We have always been a close family although/though/even though we often quarrel.
+    - However(однако, как бы ни) в середине предложения(нужно использовть ; перед словом и запятую после)
+        - The movie got good reviews; however, I didn't like it.
+    - However(однако, как бы ни) в начале предложения, выделяется запятой после, дальше должно следовать полное предложение
+        - However, some people are beginning to doubt this.
+- Предназначение (чаще всего используются в середине предлоежния)
+    - to (в значении чтобы) дальше инфитив
+    - in order to (чтобы) дальше инфинитив
+    - We set off early in the morning to/in order to get to the mountains by noon.
+- Результат
+    - as a result(в результате)
+    - so (таким образом)(в середине предложения)
+        - I know you are tired, so I will let you rest.
+    - Our local shop closed earlier yesterday, so/as a result I drank coffee without any milk in the morning.
+- Причина(cause or reason)
+    - because of + noun
+    - due to + noun
+    - as (вводит подчиненное предложение)
+    - The accident happened due to/because of violation of rules.
+    - As he has a lot of work, he hardly ever calls me without any purpose.
 ## Conditionals
 ### Would.... 
 - would you like = do you want? - чтобы предлагать что-либо
