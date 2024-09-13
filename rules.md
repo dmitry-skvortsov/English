@@ -591,7 +591,6 @@
 ##### ?
 ######                           
 -
-
 ## to be going to
 ### Использвание
 - для выражения намерения о будущем, планы которые сделаны до момента говорения
@@ -1216,50 +1215,7 @@
 ##### such + article a (for singular countable nouns) + noun phrase (+ that)
 - He’s such a clever boy!
 Jack and Ivan are such clever boys!
-## Linking words
 
-### subordinate conjunctions
-#### Использование
-- Используется чтобы соединять разные части предложений
-- Чтобы соединять разные предлоежния
-#### Формы
-- Чтобы указать на причинно слледственную связь
-    - Therefore(поэтому, следовательно)
-        - He worked the hardest; therefore, he got a promotion.
-- Чтобы говорить о последствиях
-    - That's why
-        - That's why people like her.
-- Дополняет предыдущую информацию
-    - Also в начале предложения
-        - Also, having a Facebook friend in the U.S. will make you more interested in the events happening in the U.S.
-- Маркер для суммирования предыдущей информации
-    - So, if we had the wings, we might fly to that rock.
-- So в начале предложения
-- Контраст, используется в начале или середине предложения
-    - Although(хотя)
-        - Although/Though/Even though we often quarrel, we have always been a close family.
-    - though(хотя, все же) чуть более неформальное чем although, может идти в конце предложения
-    - even though(не смотря на) сильнее чем although
-        - - We have always been a close family although/though/even though we often quarrel.
-    - However(однако, как бы ни) в середине предложения(нужно использовть ; перед словом и запятую после)
-        - The movie got good reviews; however, I didn't like it.
-    - However(однако, как бы ни) в начале предложения, выделяется запятой после, дальше должно следовать полное предложение
-        - However, some people are beginning to doubt this.
-- Предназначение (чаще всего используются в середине предлоежния)
-    - to (в значении чтобы) дальше инфитив
-    - in order to (чтобы) дальше инфинитив
-    - We set off early in the morning to/in order to get to the mountains by noon.
-- Результат
-    - as a result(в результате)
-    - so (таким образом)(в середине предложения)
-        - I know you are tired, so I will let you rest.
-    - Our local shop closed earlier yesterday, so/as a result I drank coffee without any milk in the morning.
-- Причина(cause or reason)
-    - because of + noun
-    - due to + noun
-    - as (вводит подчиненное предложение)
-    - The accident happened due to/because of violation of rules.
-    - As he has a lot of work, he hardly ever calls me without any purpose.
 ## Conditionals
 ### Would.... 
 - would you like = do you want? - чтобы предлагать что-либо
@@ -1892,6 +1848,85 @@ Jack and Ivan are such clever boys!
 - Brad moved to a village which/that is not far from his hometown.
 #### where refers to a place
 - A town hall is a place where a local government works.
+## Linking words
+### subordinate conjunctions
+#### Использование
+- Используется чтобы соединять разные части предложений
+- Чтобы соединять разные предлоежния
+#### Формы
+- Чтобы указать на причинно слледственную связь
+    - Therefore(поэтому, следовательно)
+        - He worked the hardest; therefore, he got a promotion.
+- Чтобы говорить о последствиях
+    - That's why
+        - That's why people like her.
+- Дополняет предыдущую информацию
+    - Also в начале предложения
+        - Also, having a Facebook friend in the U.S. will make you more interested in the events happening in the U.S.
+- Маркер для суммирования предыдущей информации
+    - So, if we had the wings, we might fly to that rock.
+- So в начале предложения
+- Контраст, используется в начале или середине предложения
+    - Although(хотя)
+        - Although/Though/Even though we often quarrel, we have always been a close family.
+    - though(хотя, все же) чуть более неформальное чем although, может идти в конце предложения
+    - even though(не смотря на) сильнее чем although
+        - - We have always been a close family although/though/even though we often quarrel.
+    - However(однако, как бы ни) в середине предложения(нужно использовть ; перед словом и запятую после)
+        - The movie got good reviews; however, I didn't like it.
+    - However(однако, как бы ни) в начале предложения, выделяется запятой после, дальше должно следовать полное предложение
+        - However, some people are beginning to doubt this.
+- Предназначение (чаще всего используются в середине предлоежния)
+    - to (в значении чтобы) дальше инфитив
+    - in order to (чтобы) дальше инфинитив
+    - We set off early in the morning to/in order to get to the mountains by noon.
+- Результат
+    - as a result(в результате)
+    - so (таким образом)(в середине предложения)
+        - I know you are tired, so I will let you rest.
+    - Our local shop closed earlier yesterday, so/as a result I drank coffee without any milk in the morning.
+- Причина(cause or reason)
+    - because of + noun
+    - due to + noun
+    - as (вводит подчиненное предложение)
+    - The accident happened due to/because of violation of rules.
+    - As he has a lot of work, he hardly ever calls me without any purpose.
+## Present and past participles
+### Present
+- Используется как прилагательное, наречие или глагол описывающие ситуацию
+- Нужно различать разницу между present и past когда они описывают что-то или кого-то(Present - active meaning)
+    - The situation was confusing. (Here we describe the situation.)
+- V-ing
+    - They went past me, laughing at my new bike
+    - The film was amazing!
+    - The song playing in the club is my favourite one.
+    - I am doing my homework now.
+- present participle clause
+    - Чтобы дать результат действия
+        - No one laughed at his joke, making him uncomfortable.
+        (No one laughed at his joke, which made him uncomfortable.)
+    - Чтобы дать причину действия
+        - Having no more work to do, Peter decided to go home early.
+        (As Peter had no more work to do, he decided to go home early.)
+    - Чтобы рассказать о двух одновременных или последовательных действиях
+        - Walking in the park downtown, George met his old friend.
+        (George met his old friend while he was walking in the park downtown.)
+    - Чтобы дать дополнительную информацию о существительном в основной части
+        - Opening next spring, the hotel will feature a water park, conference facilities and a full-service spa.
+        (The hotel will feature a water park, conference facilities and a full-service spa. It will open next spring.)
+    - Мы можем использовать present clauses после подчинительных союзов
+        - Before taking the exam, you should go over all your notes.
+        When planning your vacation, consider visiting a new destination.
+### Past
+- Используется как прилагательное, наречие или глагол для того чтобы показать опыт или отношение к ситуации
+- Нужно различать разницу между present и past когда они описывают что-то или кого-то(Past - passive meaning)
+    - She was confused. (Here we say what the person thought or experienced.)
+- V+ed/V3
+    - A broken phone was on the table.
+    - She was amused by the accident.
+    - The names mentioned in the report were unknown to me.
+    - The homework was done by me.
+    - I have done my homework.
 ## Adjectives ending in -ed -ing
 ### Использование
 #### Ключевые слова
