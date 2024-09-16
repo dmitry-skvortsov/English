@@ -1902,21 +1902,34 @@ Jack and Ivan are such clever boys!
     - The song playing in the club is my favourite one.
     - I am doing my homework now.
 - present participle clause
+    - Описывают происходящие действия, которые происходят в одно и тоже время с действиями в основной части предложения
+    - Такие подпредложения говорят о том что два предлоежния связаны во времени или причине.
+    - Субъкт дополнительного подпредложения обычно тот же самы что и у основной части
+    - Предполгается что дается акцент на происходящих, активных событиях
+    - Они служат цели сделать предложения короче и более ествественными, объединяя несколько действий в одно предложение
     - Чтобы дать результат действия
         - No one laughed at his joke, making him uncomfortable.
         (No one laughed at his joke, which made him uncomfortable.)
+        - The storm hit, causing widespread damage.
+
     - Чтобы дать причину действия
         - Having no more work to do, Peter decided to go home early.
         (As Peter had no more work to do, he decided to go home early.)
+        - Knowing the answer, she raised her hand.
+        (Because she knew the answer, she raised her hand.)
+        (The storm hit and as a result, widespread damage occurred.)
     - Чтобы рассказать о двух одновременных или последовательных действиях
         - Walking in the park downtown, George met his old friend.
         (George met his old friend while he was walking in the park downtown.)
+        - Walking to school, he saw his friend.
+        (He was walking and saw his friend at the same time.)
     - Чтобы дать дополнительную информацию о существительном в основной части
         - Opening next spring, the hotel will feature a water park, conference facilities and a full-service spa.
         (The hotel will feature a water park, conference facilities and a full-service spa. It will open next spring.)
     - Мы можем использовать present clauses после подчинительных союзов
         - Before taking the exam, you should go over all your notes.
         When planning your vacation, consider visiting a new destination.
+
 ### Past
 - Используется как прилагательное, наречие или глагол для того чтобы показать опыт или отношение к ситуации
 - Нужно различать разницу между present и past когда они описывают что-то или кого-то(Past - passive meaning)
@@ -1927,6 +1940,47 @@ Jack and Ivan are such clever boys!
     - The names mentioned in the report were unknown to me.
     - The homework was done by me.
     - I have done my homework.
+- Past Participle Clauses
+    - Используются для индикации что действие закончилось или выражает пассивность. Описывают действие которое закончилось перед действием в осноной части или является его результатом.
+    - Субъект подпредложение обычно тот же самый что и в основной части
+    - Часто заменяют passive relative clauses чтобы сделать предложение короче.
+    - Для завершенных действий, чаще всего перед основным действием
+        - Exhausted from work, she went straight to bed.
+        (She was exhausted, and as a result, she went to bed.)
+    - Пассивное значение, индицирующее что что-то было сделано с субъектом предложения или результируещее состояние
+        - Defeated by the enemy, the soldiers retreated.
+        (The soldiers were defeated, so they retreated.)
+    - Причина(cause), может так же описывать reason, но с пассивной перспективы
+        - Surprised by the news, she didn't know what to say.
+        (Because she was surprised, she didn’t know what to say.)
+### Ключевые различия и ошибки
+-  Фокусировка
+    - present: Происходящие или одновременные события
+    - past:  Завершенные действия или пассивные состояния
+- Когда действие происходит
+    - present: В то же время что и осноное действие
+    - past: Перед действием в основном предложении
+- Активное или пассивное
+    - present: Описывает действие которое субъект делает(активное)
+    - past: Описывает действие которое было сделано над субъектом(пассивное)
+- Субъект
+    - present: Субъект совершает действие(тот же что в основном)
+        - Walking home, she met her friend.
+    - past: Субъект подвергся действию
+        - Exhausted from the hike, he collapsed.
+- Использование связанных подпредложений
+    - Present: Заменяет активноые связанное подпредложение
+        - The man running is my friend.
+    - Past: Заменяет пассивное связанное подпредложение
+        - The cake baked yesterday is delicious.
+- Основные ошибки
+    - Использование неправильного причастия
+        - не использовать present когда действие уже закончено. 
+            - Working all day, he went home if you mean Having
+            worked all day, he went home (completed action).
+    - Неправильное расположение
+        - подчиненная часть должна иметь тот же субъект как и основная часть
+            - Walking down the street, the flowers were blooming is incorrect because the flowers are not walking. It should be Walking down the street, I saw the flowers blooming.
 ## Adjectives ending in -ed -ing
 ### Использование
 #### Ключевые слова
