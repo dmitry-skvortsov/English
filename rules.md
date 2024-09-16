@@ -1901,6 +1901,16 @@ Jack and Ivan are such clever boys!
     - The film was amazing!
     - The song playing in the club is my favourite one.
     - I am doing my homework now.
+- Continuous tenses
+- Present participle как прилагательные
+    - Для описания активной характеристики(динамика) существительного, намекая что существительное выполняет действие
+        - The movie is entertaining. (The movie causes entertainment.)
+        - She gave an inspiring speech. (The speech inspires people.)
+    - Нужно различать с past participle
+        - present ongoing: The problem is confusing. (The problem causes
+confusion.)
+        - past completed: I am confused by the problem. (The problem
+caused confusion to me.)
 - present participle clause
     - Описывают происходящие действия, которые происходят в одно и тоже время с действиями в основной части предложения
     - Такие подпредложения говорят о том что два предлоежния связаны во времени или причине.
@@ -1929,6 +1939,16 @@ Jack and Ivan are such clever boys!
     - Мы можем использовать present clauses после подчинительных союзов
         - Before taking the exam, you should go over all your notes.
         When planning your vacation, consider visiting a new destination.
+- reduced present relative clauses способ сократить относительные придаточные предложения, чтобы сделать речь более компактной, убирается относительное местоимение(which, that, who) и вспомогательный глагол
+    - полное
+        - The woman who is singing on the stage is very talented (Женщина, которая поет на сцене, очень талантлива).
+        - The car that is parked outside belongs to my neighbor (Машина, которая припаркована снаружи, принадлежит моему соседу).
+    - сокращенное
+        - The woman singing on the stage is very talented (Женщина, поющая на сцене, очень талантлива).
+        - The car parked outside belongs to my neighbor (Машина, припаркованная снаружи, принадлежит моему соседу).
+- Нужно отличать от герундия
+    -I enjoy reading (Я наслаждаюсь чтением) — герундий выступает в роли дополнения.
+    - Reading is fun (Чтение — это весело) — глагольное существительное.
 
 ### Past
 - Используется как прилагательное, наречие или глагол для того чтобы показать опыт или отношение к ситуации
@@ -1940,6 +1960,25 @@ Jack and Ivan are such clever boys!
     - The names mentioned in the report were unknown to me.
     - The homework was done by me.
     - I have done my homework.
+- Perfect tenses Указывает на совершенные действия в настоящем, прошлом или будущем
+    - She has written a letter.
+    - She has visited Italy.
+- Passive voice Фокусирует внимание на объекте действия, а не акторе
+    - S+ form of "be" + past participle
+        - The cake was baked by John. (The cake receives the action of being baked.)
+    - The cake was baked by John.
+    - The letter was written by her.
+    - The letter is written (Present Passive)
+    - The letter was written (Past Passive)
+    - The letter will be written (Future Passive)
+- В роли прилагательного, описывает существительное, часто передает идею что существительное в состоянии вызыванном совершенным дейсттвием.
+    - The finished project is on the table.
+    - The broken chair needs fixing.
+    - The broken window needs to be repaired. (The window is in a state of being broken)
+    - He was bored by the lecture. (He experienced boredom as a result of the lecture)
+- Неправильные формы
+    - I have eaten lunch
+    - He has eaten dinner
 - Past Participle Clauses
     - Используются для индикации что действие закончилось или выражает пассивность. Описывают действие которое закончилось перед действием в осноной части или является его результатом.
     - Субъект подпредложение обычно тот же самый что и в основной части
@@ -1953,6 +1992,42 @@ Jack and Ivan are such clever boys!
     - Причина(cause), может так же описывать reason, но с пассивной перспективы
         - Surprised by the news, she didn't know what to say.
         (Because she was surprised, she didn’t know what to say.)
+    - Результат
+- Reduced past relative clauses - способ сократить относительные придаточные предложения, чтобы сделать речь более компактной, убирается относительное местоимение(which, that, who) и вспомогательный глагол
+    - полные
+        - The letter that was written by John was lost (Письмо, которое было написано Джоном, было утеряно).
+        - The car which was damaged in the accident was repaired (Машина, которая была повреждена в аварии, была отремонтирована).
+    - сокращенные
+        - The letter written by John was lost (Письмо, написанное Джоном, было утеряно).
+        - The car damaged in the accident was repaired (Машина, поврежденная в аварии, была отремонтирована).
+- Perfect infinitives Это форма инфинитива показывающая что действие произошло до другого действия в любом времени
+    - Образуется как to have+ Past participle
+    - Выражение завершенности или предшестующего действия
+        - I am glad to have met her before she left (Я рад, что встретил её до того, как она уехала). Здесь подчеркивается, что встреча произошла до отъезда.
+        - She seems to have forgotten my birthday (Кажется, она забыла о моём дне рождения). Действие (забывание) произошло до момента, когда об этом заговорили.
+        - He hopes to have completed the project by next week (Он надеется завершить проект к следующей неделе). Ожидается, что действие (завершение проекта) будет выполнено до определенного момента в будущем.
+    - Часто используется с модальными глаголами для выражения предположений о прошлом или сожалений
+        - Must have: для предположений, уверенности о прошлом:
+            - She must have forgotten the meeting (Она, должно быть, забыла о встрече).
+        - Could have / might have: для предположений о возможных действиях в прошлом:
+            - They could have arrived by now (Они могли бы уже приехать к этому времени).
+        - Should have: для выражения сожаления о том, что что-то не было сделано:
+            - I should have studied harder (Мне следовало бы учиться усерднее).
+    - После определенных глаголов и выражений: Некоторые глаголы и фразы требуют использования perfect infinitive, если подразумевается завершенное или предшествующее действие:
+        -  Would like to have:
+            -  I would like to have seen that movie (Мне бы хотелось посмотреть тот фильм).
+        - Appear / seem to have:
+            - She seems to have lost her keys (Кажется, она потеряла свои ключи).
+        - Claim to have:
+            - He claims to have written that book (Он утверждает, что написал ту книгу).
+            - He claims to have finished the work.
+            - He claims to have finished the project. (He claims that the project was completed before now.)
+    - Present context:
+        - He seems to have finished the work (Кажется, он закончил работу). Здесь совершенный инфинитив показывает, что работа завершена к моменту говорения.
+    - Past context:
+        - I was happy to have helped them (Я был рад, что помог им). Действие (помощь) произошло раньше другого действия (радость).
+    - Future context:
+        - They hope to have passed the exam by next week (Они надеются сдать экзамен к следующей неделе). Ожидается, что действие будет завершено к будущему моменту.
 ### Ключевые различия и ошибки
 -  Фокусировка
     - present: Происходящие или одновременные события
@@ -2155,6 +2230,63 @@ Jack and Ivan are such clever boys!
         - Erick, whose car you’ve bought, has moved to the USA.
     - Нельзя использовать that для замены who и which
         - My parents, who are really into sport, are going to swim across the Bosphorus next year.
+
+
+## Get
+- Для обладания или получения чего-либо
+    - I **got** a new book yesterday.\
+    - Where did you **get** this phone?\
+- Для обозначения становится или изменения состояния
+    - It's **getting** cold outside.\
+    - She **got** angry after hearing the news.\
+- Приезжать или добираться
+    - I **got** home late last night.\
+    - What time will we **get** to the airport?\
+- понимать
+    - Do you **get** what I mean?\
+    - I didn\'92t **get** the joke.\
+- принести
+    - Can you **get** me some water, please?\
+    - I\'92ll **get** the keys from the car.\
+- заставлять или уговаривать
+    - I\'92ll **get** him to call you later.\
+    - She **got** her brother to help with the project.\
+- иметь шанс(opportunity)
+    - I **got** to meet the CEO last week.\
+    - Did you **get** to see the movie?\
+- как часть фразового глагола
+    - **Get up** \'96 to rise from bed\
+    - **Get over** \'96 to recover from something\
+    - **Get along** \'96 to have a good relationship\
+    - **Get rid of** \'96 to remove or eliminate\
+- Используется с прилагательными чтобы показать изменение в физическом, эмоциональном или ситуационном состоянии
+    - *It\'92s **getting** dark* (transitioning from light to dark).\
+    - *She **got** tired after working all day* (changed from feeling energetic to feeling tired).\
+    - *I\'92m **getting** hungry* (beginning to feel hungry).\
+- Чтобы показать медленное изменение со временем
+    - *The weather is **getting** warmer* (it\'92s gradually becoming warmer).\
+    - *He\'92s **getting** better at playing the guitar* (his skill is improving over time).\
+- Чтобы дать акцент на результат изменения
+    - *I **got** sick after eating bad food* (I became sick).\
+    - *They **got** lost on their way to the party* (they became lost).\
+- Некоторые пары с прилагательными, используемые чтобы показать изменение
+    - **Emotions/Feelings**: angry, happy, upset, sad, tired, bored\    
+        - *She **got** angry when she heard the news* (she transitioned from calm to angry).\
+    - **Physical conditions**: cold, warm, sick, better, worse, hungry, thirsty\
+    - **Other states**: lost, late, ready, stuck\
+        - *It\'92s **getting** late, we should go* (the time is transitioning to a later hour).\
+- С сравнительными прилагательными
+    - better
+        - *Things are **getting** better* (the situation is improving).\
+    - worse
+    - older
+        - *He\'92s **getting** older every year* (he is aging).\
+- C некоторыми неформальными выражениями
+    - *We need to hurry, it's **getting** late* (the time is advancing).\
+    - *I\'92m **getting** nervous about the exam* (my anxiety is increasing).\
+- Для неформалной замены become
+    - Formal: *He **became** angry.*\
+    - Informal: *He **got** angry.*\
 ## **TODO** 
 - in case(нужно узнать для случаев не входящих в обычные conditionals)
 - real and unreal conditionals with if 1, 2 в разделе грамматики
