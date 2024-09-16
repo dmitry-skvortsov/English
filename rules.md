@@ -129,6 +129,56 @@
 - Was this picture painted by James?
 - Was the book written by Jack?
 - Were your guests asked for a birthday present?
+## Past Continuous
+### Active
+#### Использвание
+- чтобы рассказывать о фоновых событиях
+    - The sun was shining and the birds were singing while the kids were playing in the park.
+- чтобы рассказать о событиях которые были в процессе в определенное время в прошлом когда произошли другие события
+    - I was watching a film when my sister came into the room and turned off the TV.
+- чтобы показать что два события происходили в одно и тоже время
+- Специальные случаи
+    - past continuous + when/while past continous(He was cooking while she was reading)
+        
+#### Ключевые слова
+- at that time
+- still
+- all...(all day long)
+- from...till...
+- the whole ...
+- while
+#### Формы
+##### + 
+###### S + was/were + Ving
+- I was working on my new project yesterday at 10 o’clock.
+- She was talking on the phone when I walked into the room.
+
+##### -
+###### S + was/were + not + Ving
+- She wasn't listening to music at that moment.
+- They weren't playing basketball because it was raining outside.
+- We weren't driving the car between 3 and 4 p.m.
+##### ?
+###### (Wh-word) + Was/Were + S + Ving?                         
+- Were you studying at 2 p.m.?
+- What were you thinking when you decided to quit your job?
+- Were you typing the report when the boss was talking on the phone?
+### Passive
+#### Использвание
+- Когда не известно кто совершает действие
+- Когда не важно кто совершает действие
+- Когда пишете исследовательскую работу или отчет
+#### Ключевые слова
+#### Формы
+##### + 
+###### was/were + being + Ved/V3
+- The bike was being fixed yesterday in the morning.
+##### -
+######
+- 
+##### ?
+######                           
+-
 ## Past Perfect
 ### Active
 #### Использвание
@@ -191,6 +241,29 @@
 ##### ?
 ######                           
 -
+## Past Perfect Continuous
+### Active
+#### Использвание
+- Для того чтобы говорить о продолжавшихся в моменте в прошлом или действий закончившихся прямо перед моментом в прошлом
+    - She was out of breath because she had been running late to the meeting and had been sprinting for the last few blocks.
+- Для того чтобы сфокусироваться на длительности активности
+    - She had been studying for six hours when she finally decided to take a break.
+#### Ключевые слова
+- since
+- for
+- all...(all the time, all his life)
+- of late 
+#### Формы
+##### + 
+###### I/you/we, etc. + had + been + Ving
+- She had been studying for hours before she took a break.
+
+##### -
+###### I/you/we, etc. + had not (hadn’t) + been + Ving
+- They hadn't been working out regularly, so they weren't in shape for the marathon.
+##### ?
+###### (Wh-word) + had + I/you/we, etc. + been + Ving                          
+- Had you been waiting long before I arrived?                     
 ## Present Simple
 ### Active
 #### Использвание
@@ -518,79 +591,6 @@
         - No, I / he / we / etc. haven’t/ hasn’t.
     - Where has he been living?
     - What has he been doing all this time?
-## Past Perfect Continuous
-### Active
-#### Использвание
-- Для того чтобы говорить о продолжавшихся в моменте в прошлом или действий закончившихся прямо перед моментом в прошлом
-    - She was out of breath because she had been running late to the meeting and had been sprinting for the last few blocks.
-- Для того чтобы сфокусироваться на длительности активности
-    - She had been studying for six hours when she finally decided to take a break.
-#### Ключевые слова
-- since
-- for
-- all...(all the time, all his life)
-- of late 
-#### Формы
-##### + 
-###### I/you/we, etc. + had + been + Ving
-- She had been studying for hours before she took a break.
-
-##### -
-###### I/you/we, etc. + had not (hadn’t) + been + Ving
-- They hadn't been working out regularly, so they weren't in shape for the marathon.
-##### ?
-###### (Wh-word) + had + I/you/we, etc. + been + Ving                          
-- Had you been waiting long before I arrived?                     
-## Past Continuous
-### Active
-#### Использвание
-- чтобы рассказывать о фоновых событиях
-    - The sun was shining and the birds were singing while the kids were playing in the park.
-- чтобы рассказать о событиях которые были в процессе в определенное время в прошлом когда произошли другие события
-    - I was watching a film when my sister came into the room and turned off the TV.
-- чтобы показать что два события происходили в одно и тоже время
-- Специальные случаи
-    - past continuous + when/while past continous(He was cooking while she was reading)
-        
-#### Ключевые слова
-- at that time
-- still
-- all...(all day long)
-- from...till...
-- the whole ...
-- while
-#### Формы
-##### + 
-###### S + was/were + Ving
-- I was working on my new project yesterday at 10 o’clock.
-- She was talking on the phone when I walked into the room.
-
-##### -
-###### S + was/were + not + Ving
-- She wasn't listening to music at that moment.
-- They weren't playing basketball because it was raining outside.
-- We weren't driving the car between 3 and 4 p.m.
-##### ?
-###### (Wh-word) + Was/Were + S + Ving?                         
-- Were you studying at 2 p.m.?
-- What were you thinking when you decided to quit your job?
-- Were you typing the report when the boss was talking on the phone?
-### Passive
-#### Использвание
-- Когда не известно кто совершает действие
-- Когда не важно кто совершает действие
-- Когда пишете исследовательскую работу или отчет
-#### Ключевые слова
-#### Формы
-##### + 
-###### was/were + being + Ved/V3
-- The bike was being fixed yesterday in the morning.
-##### -
-######
-- 
-##### ?
-######                           
--
 ## to be going to
 ### Использвание
 - для выражения намерения о будущем, планы которые сделаны до момента говорения
@@ -1215,7 +1215,6 @@
 ##### such + article a (for singular countable nouns) + noun phrase (+ that)
 - He’s such a clever boy!
 Jack and Ivan are such clever boys!
-
 ## Conditionals
 ### Would.... 
 - would you like = do you want? - чтобы предлагать что-либо
@@ -2189,8 +2188,6 @@ caused confusion to me.)
         - how
     - Используй Present Simple в обоих частях если утверждение верно
         - Nobody understands how Roberto can speak so many languages!
-
-
 ## Who, which, where
 ### Определяющие относительные предложения
 - Используется для предостовления основной информации о персоне, месте, или том что это или что делает.
@@ -2230,8 +2227,6 @@ caused confusion to me.)
         - Erick, whose car you’ve bought, has moved to the USA.
     - Нельзя использовать that для замены who и which
         - My parents, who are really into sport, are going to swim across the Bosphorus next year.
-
-
 ## Get
 - Для обладания или получения чего-либо
     - I **got** a new book yesterday.\
