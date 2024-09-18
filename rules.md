@@ -1,6 +1,6 @@
 
 # English
-## unreal tenses
+## **unreal tenses**
 ### I wish/if only + Past Simple/Would
 #### Использование
 - Использу есть для выражения сожалений или желаний. Мы воображаем другое настоящее или прошлое
@@ -47,7 +47,7 @@
 ##### would ('d) rather/sooner + Past Perfect
 - Выражает предпочтения или желания о прошлом
     - I'd rather you hadn't watched that documentary. Look how concerned it made you.
-## Speaking about the present 
+## **Speaking about the present** 
 ### Keep, be prone to, tend to, have a tendency to, as a rule)
 - Используются чтобы говорить о типичных действиях или состояних в настоящем
 ### Формы
@@ -61,7 +61,7 @@
     - We have a tendency to get together on Sundays.
 - As a rule, + a clause
     - As a rule, I try not to work at weekends.
-## Past Simple
+## **Past Simple**
 ### Active
 #### Использвание
 - Для основных событий истории
@@ -129,7 +129,7 @@
 - Was this picture painted by James?
 - Was the book written by Jack?
 - Were your guests asked for a birthday present?
-## Past Continuous
+## **Past Continuous**
 ### Active
 #### Использвание
 - чтобы рассказывать о фоновых событиях
@@ -179,7 +179,7 @@
 ##### ?
 ######                           
 -
-## Past Perfect
+## **Past Perfect**
 ### Active
 #### Использвание
 - Для того чтобы говорить о чем-то что закончилось перед основными событиями в прошлом
@@ -241,7 +241,7 @@
 ##### ?
 ######                           
 -
-## Past Perfect Continuous
+## **Past Perfect Continuous**
 ### Active
 #### Использвание
 - Для того чтобы говорить о продолжавшихся в моменте в прошлом или действий закончившихся прямо перед моментом в прошлом
@@ -264,7 +264,7 @@
 ##### ?
 ###### (Wh-word) + had + I/you/we, etc. + been + Ving                          
 - Had you been waiting long before I arrived?                     
-## Present Simple
+## **Present Simple**
 ### Active
 #### Использвание
 - для фактов
@@ -368,7 +368,7 @@
 ##### by используется чтобы сказать кто совершил действие
 - This aeroplane is manufactured by Boeing.
 - The pictures are designed by Lilly Baker.
-## Present Continuous
+## **Present Continuous**
 ### Active
 #### Использвание
 - Для фокусировки на текущей или продолжающейся сущности действия
@@ -430,7 +430,7 @@
 ##### ?
 ######                           
 -   
-## Present Perfect
+## **Present Perfect**
 ### Active
 #### Использвание
 - Используется чтобы говорить о завершенном действии в неопределенный момент с результатом в настоящем, с фокусом на завершенности действия и результате
@@ -543,7 +543,7 @@
 ##### ?
 ######                           
 -
-## Present Perfect Continuous
+## **Present Perfect Continuous**
 ### Active
 #### Использвание
 - Фокусировка на том как долго что-то происходила, с акцентом на связи между прошлым и настоящем
@@ -591,7 +591,7 @@
         - No, I / he / we / etc. haven’t/ hasn’t.
     - Where has he been living?
     - What has he been doing all this time?
-## to be going to
+## **to be going to**
 ### Использвание
 - для выражения намерения о будущем, планы которые сделаны до момента говорения
     - We are going to visit our grandparents over the weekend.
@@ -617,7 +617,7 @@
 - When are they going to move? 
 - Are students going to take paper exams this year?
 - Is he going to travel abroad?  
-## Future Simple
+## **Future Simple**
 ### Active
 #### Использвание
 - факты о будущем в которых мы не полностью уверены, часто с probably
@@ -678,7 +678,7 @@
 ##### ?
 ######                           
 -
-## Future Continous
+## **Future Continous**
 ### Active
 #### Использование
 - Используется для описания запланированных действий которые будут в процессе в определенный момент в будущем
@@ -690,7 +690,7 @@
 ##### **?** Will + S + be + Ving?
 - Will you be watching a new TV show at 6 pm today?
 ### Passive
-## Выражение отношения нравится/не нравится
+## **Выражение отношения нравится/не нравится**
 
 ### Ключевые слова
 #### для выражения того что нравится
@@ -717,7 +717,7 @@
 #### ?
 ##### Do/Does + subject + love/like/enjoy/dislike + V + -ing
 - Do they enjoy gardening?
-## Артикли
+## **Артикли**
 ### Использвание
 - a/an используется с исчислимыми существительными единственного числа
 - the используется со всеми типами существительных
@@ -873,7 +873,7 @@
 ##### перед next/last + day, week, etc.
 - See you next weekend.
 - I met him last year.
-## Модальные глаголы
+## **Модальные глаголы**
 ### Passive modal
 - modal + be + Ved/V3
     - The rules must be followed.
@@ -1038,7 +1038,7 @@
 #### Формы
 ##### had better + infinitive (without "to")
 - You had better pay attention to what he is saying, or you'll be lost.
-## Еще про будущее
+## **Еще про будущее**
 ### to be about to
 - чтобы сказать о событиях которые очень скоро случаться, или начаниют случаться
     - I am about to leave for work. (I will leave very soon, possibly within a few moments.)
@@ -1066,7 +1066,7 @@
     - ? 
         - (Wh-word) + do/does + S + plan/intend/mean + to + V (base form)?
             - What do you mean to do with that information?
-## Used to(would) / be used to / get used to
+## **Used to(would) / be used to / get used to**
 ### Использование
 - used to + V используется для рассказа о повторяющихся действиях или состояних которые были в прошлом но больше не актуальны, 
     - She used to avoid eating vegetables, but now she can't imagine a meal without them.
@@ -1130,7 +1130,7 @@
     - ?
         - (Qw) + auxiliary verb + S + get used to + Ving
             - Does he get used to working hard?
-## Предлоги времени
+## **Предлоги времени**
 
 ### At
 #### определенное время
@@ -1178,7 +1178,7 @@
     - next summer
 - every + day/week/month/year
     - every day
-## Intensifiers
+## **Intensifiers**
 ### Усилители pretty, quite, really, very, extremely + adjective (adverb)
 #### very
  - This rule is very easy. I understood it quickly.
@@ -1215,7 +1215,7 @@
 ##### such + article a (for singular countable nouns) + noun phrase (+ that)
 - He’s such a clever boy!
 Jack and Ivan are such clever boys!
-## Conditionals
+## **Conditionals**
 ### Would.... 
 - would you like = do you want? - чтобы предлагать что-либо
     - Would you like some coffee?
@@ -1525,7 +1525,7 @@ Jack and Ivan are such clever boys!
 - If it hadn't been for the head's commercial acumen, we would have lost our position in the market.
 ##### But for + somebody/something, would/wouldn’t + have + V3
 - Chris would never have become a doctor but for the support of his parents.
-##  Want to, would like to
+##  **Want to, would like to**
 #### Формы
 ##### Want to + V
 - I want to understand how to help the environment.
@@ -1538,7 +1538,7 @@ Jack and Ivan are such clever boys!
 ##### ?
 ###### Would + subject + like to + V?
 - Would you like to start using eco-bags?
-## Infinitive
+## **Infinitive**
 ### Формы
 #### adjective+infinitive
 ##### Используется после прилагательных
@@ -1717,7 +1717,7 @@ Jack and Ivan are such clever boys!
             - I remembered calling her. (I have a memory of calling her)
             - I remembered to call her. (I remembered and then I called her) 
             - Remember to tell her. (Action of telling)     
-## Gerund
+## **Gerund**
 ### Active
 - Эти глаголы частно описывают действие или активность которые в процессе, продолжаются, или привычны. Концентнируется на продолжающейся природе действия
     - Как субъект
@@ -1838,7 +1838,7 @@ Jack and Ivan are such clever boys!
 ### Passive
 - modal + be + Ved/V3
     - The rules must be followed.
-## Relative clauses
+## **Relative clauses**
 ### Использование
 - who , which, that, where для дачи информации о ком-то или чем-то, важную для понимания о чем идет речь. В таких предложениях не используется запятая.
 #### Who(that)
@@ -1847,7 +1847,7 @@ Jack and Ivan are such clever boys!
 - Brad moved to a village which/that is not far from his hometown.
 #### where refers to a place
 - A town hall is a place where a local government works.
-## Linking words
+## **Linking words**
 ### subordinate conjunctions
 #### Использование
 - Используется чтобы соединять разные части предложений
@@ -1890,7 +1890,7 @@ Jack and Ivan are such clever boys!
     - as (вводит подчиненное предложение)
     - The accident happened due to/because of violation of rules.
     - As he has a lot of work, he hardly ever calls me without any purpose.
-## Present and past participles
+## **Present and past participles**
 ### Present
 - Используется как прилагательное, наречие или глагол описывающие ситуацию
 - Нужно различать разницу между present и past когда они описывают что-то или кого-то(Present - active meaning)
@@ -2000,7 +2000,7 @@ caused confusion to me.)
         - The letter written by John was lost (Письмо, написанное Джоном, было утеряно).
         - The car damaged in the accident was repaired (Машина, поврежденная в аварии, была отремонтирована).
 - Perfect infinitives Это форма инфинитива показывающая что действие произошло до другого действия в любом времени
-    - Образуется как to have+ Past participle
+    - Образуется как to have + Past participle
     - Выражение завершенности или предшестующего действия
         - I am glad to have met her before she left (Я рад, что встретил её до того, как она уехала). Здесь подчеркивается, что встреча произошла до отъезда.
         - She seems to have forgotten my birthday (Кажется, она забыла о моём дне рождения). Действие (забывание) произошло до момента, когда об этом заговорили.
@@ -2055,7 +2055,7 @@ caused confusion to me.)
     - Неправильное расположение
         - подчиненная часть должна иметь тот же субъект как и основная часть
             - Walking down the street, the flowers were blooming is incorrect because the flowers are not walking. It should be Walking down the street, I saw the flowers blooming.
-## Adjectives ending in -ed -ing
+## **Adjectives ending in -ed -ing**
 ### Использование
 #### Ключевые слова
 - relaxed/relaxing
@@ -2065,7 +2065,7 @@ caused confusion to me.)
 - Bill was excited about his trip. But then he was surprised that it was over so soon.
 #### Прилагательные заканчивающиеся на -ing описывают людий и вещи
 - Bill's trip was exciting. He saw amazing sights.
-## Indefinite pronouns
+## **Indefinite pronouns**
 ### Использование some/any/no + body/thing/where для разговора о людях и вещах без того чтобы объяснять кто или что они
 ### body/one для людей
 ### thing вещей
@@ -2089,7 +2089,7 @@ caused confusion to me.)
 ##### no + one/body/thing/where
 - They have nowhere to stay.
 #Quantifiers
-## Countable and Uncountable
+## **Countable and Uncountable**
 ### Countable
 - Используются для вещей которые можно сосчитать
     - Cats
@@ -2129,7 +2129,7 @@ caused confusion to me.)
 - weather
 - snow
 - rain etc.
-## Quantifiers
+## **Quantifiers**
 ### Much/Many
  Ипользование
 - Чтобы сказать что чего-то много
@@ -2153,7 +2153,7 @@ caused confusion to me.)
 - Few и a few используются с множественным числом исчислимых
     - They had few phones on this website so I checked a different one.
     - I have a few friends in this city, so I always have someone to talk to.
-## Indirect Speach
+## **Indirect Speach**
 ### Использование
 - Чтобы передать то что сказал другой человек
     - tell somebody / say that + Subject + Verb
@@ -2164,7 +2164,7 @@ caused confusion to me.)
             - прямая : "Smoking is bad for you," scientists say.
             - не прямая : Scientists say (that) smoking is bad for you.
         - нужно менять местоимения
-            -  прямая : "I want to change my job," Harry says.
+            - прямая : "I want to change my job," Harry says.
             - не прямая : Harry tells me he wants to change his job. = Harry says that he wants to change his job
         - **Внимание** Используя tell + somebody а не say + to somebody и say something
             - Lizzy tells me she works for a big IT company.
@@ -2188,7 +2188,83 @@ caused confusion to me.)
         - how
     - Используй Present Simple в обоих частях если утверждение верно
         - Nobody understands how Roberto can speak so many languages!
-## Who, which, where
+## **Reported Speach**
+### Использование
+- Используется чтобы пересказать слова другого человека
+- “I want to visit my aunt on Friday.”
+    Mary said she wanted to visit her aunt on Friday.
+### Формирование
+- Откатить на одно время назад когда говорим о будущем
+    - Present Simple ➡ Past Simple
+        - I like cats. ➡ She told me she liked cats.
+        - **?**  Do you do it? ➝ She asked if I did it.
+    - Present Continuous ➡ Past Continuous
+        - I am watching a film now. ➡ He said he was watching a film at that moment.
+        - **?** Are you cooking dinner? ➝ She asked him if he was cooking dinner.
+    - Present Perfect ➡ Past Perfect
+        - We have done our homework. ➡ They said they had done their homework.
+        - **?** Have you been there? ➝ He asked me whether I had been there.
+    - Past Simple ➡ Past Perfect
+        - I was at home. ➡ He said he had been at home.
+        - **?** Did you do it? ➝ She asked if I had done it.
+    - Present Perfect Continuous ➡ Past Perfect Continuous
+        - We have been doing it for 3 hours. ➡ They told him they had been doing it for 3 hours.
+        - **?** Has she been working the whole day? ➝ She asked them if she had been working the whole day.
+    - Past Continuous ➡ Past Perfect Continuous
+        - It was raining yesterday. ➡ He said it had been raining the previous day.
+        - **?** Were you eating? ➝ She asked if he had been eating.
+    - Will ➡ Would
+        - We will save our planet! ➡ They said they would save their planet.
+        - **?** Will you do it? ➝ She asked whether I would do it.
+    - Can ➡ Could
+        - I can swim. ➡ She told us she could swim.
+        - **?** Can you lend me your laptop? ➝ He asked me if I could lend him my laptop.
+    - May ➡ Might
+        - You may come in. ➡ She said I might come in.
+        - **?** May I come in? ➝ She asked if she might come in.
+    - Must ➡ Had to
+        - You must study better if you want to have a new toy! ➡ My mum said I had to study better if I wanted to have a new toy.
+        - **?** Must you go there? ➝ He asked her if she had to go there.
+    - Have to ➡ Had to
+        - I have to be in the office at 8 tomorrow. ➡ My colleague said he had to be in the office at 8 the next day.
+        - **?** Do you have to meet her? ➝ He asked me if I had to meet her.
+- некоторые модальные глаголы не меняются
+    - might
+        - it might be difficult to solve the issue. ➡ They told me it might be difficult to solve the issue.
+    - could
+    - would
+    - should
+    - ought to
+- есть случаи когда время менять не надо, когда ситуация еще правдива или это факт
+    - He said that he teaches fifth grade.
+    - They said that iron melts at the temperature of 1538 degrees Celsius.
+- не меняется время когда первая часть в настоящем
+    - She says that we are meeting at 5 o’clock at the cafe.
+### Изменение указаний на время
+- now -> then/at that time
+- today -> that day
+- tonight -> that night
+- yesterday -> the day before/the previous day
+- 2 days ago -> 2 days before
+- last week -> the week before/ the previous week
+- tomorrow -> the next day/ the following day
+- in a week -> a week later
+- next year -> the following year
+- here -> there
+- this -> that
+- these -> those
+### Вопросы
+- используется чтобы пересказать вопросы заданные другими
+    - нужно использовать if или whether если нужно сделать general question + direct word order
+        - She asked if I could meet her.
+- Специальные вопросы
+    - Сохраняется вопросительное слово/фраза чтобы сделать special question+ direct word
+        - The teacher asked, "When did the era of space travel begin?" ➝ The teacher asked when the era of space travel had begun.
+        - I asked, "How has this film got so popular here?" ➝ I asked how that film had got so popular there.
+        - “What are you doing tomorrow morning?” Mark asked➝ Mark asked her what she was doing the next morning.
+- так же нужно менять времена
+    - They asked whether we were planning to participate in the show.
+## **Who, which, where**
 ### Определяющие относительные предложения
 - Используется для предостовления основной информации о персоне, месте, или том что это или что делает.
 Обычно используется сразу после существительного, которое оно описывает.
@@ -2227,7 +2303,7 @@ caused confusion to me.)
         - Erick, whose car you’ve bought, has moved to the USA.
     - Нельзя использовать that для замены who и which
         - My parents, who are really into sport, are going to swim across the Bosphorus next year.
-## Get
+## **Get**
 - Для обладания или получения чего-либо
     - I **got** a new book yesterday.\
     - Where did you **get** this phone?\
@@ -2282,8 +2358,13 @@ caused confusion to me.)
 - Для неформалной замены become
     - Formal: *He **became** angry.*\
     - Informal: *He **got** angry.*\
+
 ## **TODO** 
 - in case(нужно узнать для случаев не входящих в обычные conditionals)
 - real and unreal conditionals with if 1, 2 в разделе грамматики
 - Conditional Clauses with Unless, As Long As, Provided, Providing
 - «Whether ... or not» and «on condition that» / «as long as» / «providing that» / «provided that»
+- Согласовать indirect и reported speach
+- passive voices and determinating of tenses
+- Questions and tenses
+- perfect infinitive
