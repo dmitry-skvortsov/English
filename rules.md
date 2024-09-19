@@ -690,33 +690,6 @@
 ##### **?** Will + S + be + Ving?
 - Will you be watching a new TV show at 6 pm today?
 ### Passive
-## **Выражение отношения нравится/не нравится**
-
-### Ключевые слова
-#### для выражения того что нравится
-- love
-- like
-- enjoy
-- prefer
-- be crazy about
-#### для выражения того что не нравится
- - dislike
- - hate
- - be not a fan of
- - can't stand
-#### Использовать don't mind чтобы сказать что твое отношение нейтральное
- - don't mind
-### Формы 
-#### + 
-##### love/like/enjoy/dislike + V + -ing
-- I love doing puzzles.
-
-#### - 
-##### do not (don’t) / does not (doesn’t) + love/like/enjoy + V + -ing
-- She doesn’t like reading detective stories.
-#### ?
-##### Do/Does + subject + love/like/enjoy/dislike + V + -ing
-- Do they enjoy gardening?
 ## **Артикли**
 ### Использвание
 - a/an используется с исчислимыми существительными единственного числа
@@ -1725,8 +1698,30 @@ Jack and Ivan are such clever boys!
         - Running is good exercise.
         - Watching ads can be so boring.
     - Как объекты
-        - She enjoys swimming.
-        - I like swimming.
+        - Выражение отношения нравится/не нравится
+            - Ключевые слова для выражения того что нравится
+                - love
+                - like
+                    - - I like swimming.
+                - enjoy
+                    - She enjoys swimming.
+                - prefer
+                - be crazy about
+        - для выражения того что не нравится
+            - dislike
+            - hate
+            - be not a fan of
+            - can't stand
+        - Использовать don't mind чтобы сказать что твое отношение нейтральное
+            - don't mind
+        - Формы 
+            - + love/like/enjoy/dislike + V + -ing
+                - I love doing puzzles.
+
+            - do not (don’t) / does not (doesn’t) + love/like/enjoy + V + -ing
+                - She doesn’t like reading detective stories.
+            - ? Do/Does + subject + love/like/enjoy/dislike + V + -ing
+                - Do they enjoy gardening?    
     - после предлогов
         - She is interested in painting.
         - I am interested in reading.
