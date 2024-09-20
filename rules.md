@@ -591,32 +591,56 @@
         - No, I / he / we / etc. haven’t/ hasn’t.
     - Where has he been living?
     - What has he been doing all this time?
-## **to be going to**
-### Использвание
-- для выражения намерения о будущем, планы которые сделаны до момента говорения
-    - We are going to visit our grandparents over the weekend.
-    - I am going to do some work-out next week.
-- для планов, решений и предсказаний основанных на доказательствах
-    - Look at those dark clouds. It's going to rain soon.
-    - It’s so dark and windy! I think it is going to rain soon.
-- действие которые начали выполняться
-### Ключевые слова
-### Формы
-#### + 
-##### S + am/is/are + going to + V
-- Look at the sky! It is going to rain.
-- There are more and more robots around us, so they are going to replace people soon.
-- They are going to have a picnic in the park.
-#### -
-##### S + am/is/are + not + going to + V
-- We are not going to meet today.
-- My sister isn't going to have a baby in the near future.
-- She is not going to buy a new car.
-#### ?
-##### Am/Is/Are + S + going to + V 
-- When are they going to move? 
-- Are students going to take paper exams this year?
-- Is he going to travel abroad?  
+## **Специальные формы будущего** 
+### **to be going to future**
+- Использвание
+    - для выражения намерения о будущем, планы которые сделаны до момента говорения
+        - We are going to visit our grandparents over the weekend.
+        - I am going to do some work-out next week.
+    - для планов, решений и предсказаний основанных на доказательствах
+        - Look at those dark clouds. It's going to rain soon.
+        - It’s so dark and windy! I think it is going to rain soon.
+    - действие которые начали выполняться
+- Формы
+     + S + am/is/are + going to + V
+        - Look at the sky! It is going to rain.
+        - There are more and more robots around us, so they are going to replace people soon.
+        - They are going to have a picnic in the park.
+    - S + am/is/are + not + going to + V
+        - We are not going to meet today.
+        - My sister isn't going to have a baby in the near future.
+        - She is not going to buy a new car.
+    - ? Am/Is/Are + S + going to + V 
+        - When are they going to move? 
+        - Are students going to take paper exams this year?
+        - Is he going to travel abroad?  
+### **to be about to**
+- чтобы сказать о событиях которые очень скоро случаться, или начаниют случаться
+    - I am about to leave for work. (I will leave very soon, possibly within a few moments.)
+- Формы
+    - +
+        - S + am/is/are + about + to + V (base form)
+            - She is about to play the piano.
+    - -
+        - S + am/is/are + not + about + to + V (base form)
+            - They are not about to watch TV.
+    - ? 
+        - Wh-word) + am/is/are + S + about + to + V (base form)?
+            - Are you about to leave?
+### **to plan/intend/mean to**
+- чтобы сказать о чьих либо намерениях, стремлениях, решительностях что-то соврешить в будущем
+    - I mean to finish reading that book by the end of the month.
+- Формы
+    - +
+        - S + plan/intend/mean + to + V (base form)
+            - She plans to study abroad next year.
+
+    - - 
+        - S + do not (don’t) plan/intend/mean + to + V (base form)
+            - They don’t intend to attend the meeting tomorrow.
+    - ? 
+        - (Wh-word) + do/does + S + plan/intend/mean + to + V (base form)?
+            - What do you mean to do with that information?
 ## **Future Simple**
 ### Active
 #### Использвание
@@ -1011,34 +1035,6 @@
 #### Формы
 ##### had better + infinitive (without "to")
 - You had better pay attention to what he is saying, or you'll be lost.
-## **Еще про будущее**
-### to be about to
-- чтобы сказать о событиях которые очень скоро случаться, или начаниют случаться
-    - I am about to leave for work. (I will leave very soon, possibly within a few moments.)
-- Формы
-    - +
-        - S + am/is/are + about + to + V (base form)
-            - She is about to play the piano.
-    - -
-        - S + am/is/are + not + about + to + V (base form)
-            - They are not about to watch TV.
-    - ? 
-        - Wh-word) + am/is/are + S + about + to + V (base form)?
-            - Are you about to leave?
-### to plan/intend/mean to
- - чтобы сказать о чьих либо намерениях, стремлениях, решительностях что-то соврешить в будущем
-    - I mean to finish reading that book by the end of the month.
-- Формы
-    - +
-        - S + plan/intend/mean + to + V (base form)
-            - She plans to study abroad next year.
-
-    - - 
-        - S + do not (don’t) plan/intend/mean + to + V (base form)
-            - They don’t intend to attend the meeting tomorrow.
-    - ? 
-        - (Wh-word) + do/does + S + plan/intend/mean + to + V (base form)?
-            - What do you mean to do with that information?
 ## **Used to(would) / be used to / get used to**
 ### Использование
 - used to + V используется для рассказа о повторяющихся действиях или состояних которые были в прошлом но больше не актуальны, 
