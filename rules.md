@@ -2255,6 +2255,12 @@ caused confusion to me.)
         - “What are you doing tomorrow morning?” Mark asked➝ Mark asked her what she was doing the next morning.
 - так же нужно менять времена
     - They asked whether we were planning to participate in the show.
+### Команды
+- told somebody to do" / "told somebody not to do для команд
+    - "Talk to the manager." → He told me to talk to the manager 
+- Use "asked somebody to do" / "asked somebody not to do" для вопросов
+    - "Can you show me the receipt?" → The shop assistant asked me to show the receipt.
+    - "Can you not listen to loud music?" → He asked me not to listen to loud music.
 ## **Who, which, where**
 ### Определяющие относительные предложения
 - Используется для предостовления основной информации о персоне, месте, или том что это или что делает.
