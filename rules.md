@@ -268,15 +268,19 @@
 ### Active
 #### Использвание
 - для фактов
+    - Multitaskers cope with several tasks at once.
 - привычки
 - повторяющиеся события
+    - I usually feel nervous before an important event.
 - для выражения нравится, не нравится, мнения
 - для выражения будущего для событий фиксированных в расписаниях, календарях и т.д.
     - The train to London departs at 9:00 AM tomorrow.
+    - The meeting takes place on 20 April.
 #### Ключевые слова
 - always
 - usually
 - sometimes
+- seldom
 - often
 - hardly ever
 - never
@@ -372,17 +376,23 @@
 ### Active
 #### Использвание
 - Для фокусировки на текущей или продолжающейся сущности действия
-- для описания действий которые происходят в этот самый момент говорения
+- для описания действий которые происходят в этот самый момент говорения (now, still, at the moment)
     - She is reading a book right now
-- действия которые обычно носят временный или ограниченных характер, а не постоянные
+    - I am trying to focus now.
+- действия которые обычно носят временный или ограниченных характер, а не постоянные ( these days/week/month etc)
     - He is living in New York for the summer.
+    - My brother is very busy. He is getting ready for his finals.
 - для выражения будущего, если говорить о договоренностях которые точно реализуются( что-то что уже организованно или получено согласие), особенно когда время или место упоминается
     - I am meeting my friends for dinner tonight.
     - I am having dinner with Mary tonight.
     - I am flying to Madrid in a month, I’ve already bought the ticket.
     - We are meeting them at 6 PM.
+    - She is going to a wedding on Saturday.
 - Тренды или изменение ситуации, используется для описания действий, которые начинают выполняться или тренды которые сейчас происходят
     - More people are using electric cars
+    - The number of cars on the roads is increasing rapidly each year.
+- для выражения эмоционального отношения говорящего(impatience, irritation, admiration) по отношению к повторяющимся действиям характеризующим субъекта
+    - You are always losing your things!
 
     
 #### Ключевые слова
@@ -433,10 +443,12 @@
 ## **Present Perfect**
 ### Active
 #### Использвание
-- Используется чтобы говорить о завершенном действии в неопределенный момент с результатом в настоящем, с фокусом на завершенности действия и результате
-- о состояних которые начались в прошлом и продолжаются до настоящего времени.
-- Чтобы сделать акцент на завершенности действия в период времени который еще не завершен
+- Используется чтобы говорить о завершенном действии в неопределенный момент с результатом в настоящем, с фокусом на завершенности действия и результате (already, ever, never, yet, lately, recently, just, so far, of late, etc.)
+    - Have you finished your work yet?
+- о состояних и действиях которые начались в прошлом и продолжаются до настоящего времени.( с since and for и глаголоми которые обычно имеют континоусные формы)
+- Чтобы сделать акцент на завершенности действия в период времени который еще не завершен (this morning, today, this week, this year, etc.)
     - I have written an essay. I can go for a walk.
+    - She hasn't seen her colleagues this morning.
 - Жизненных опытах ( I have seen many countries.)
 - недавно завершенных событиях
 - В отрицательных предлоежниях для выражения отсутствия действия или события
@@ -444,6 +456,7 @@
 - Используется с глаголами состояний, с глаголами действий используется Present Perfect Continous 
     - I have been here all morning.
     - We've known each other for 5 years.
+- чтобы обозначить результаты действия, когда мы говорим сколько было сделно, сколько раз делалось что-то, как много чего было сделано.
 #### Ключевые слова
 ##### Just 
 ###### +
@@ -547,9 +560,12 @@
 ### Active
 #### Использвание
 - Фокусировка на том как долго что-то происходила, с акцентом на связи между прошлым и настоящем
-- Подсвечивает что действие началось в прошлом, все еще проолжается или влияет на настоящее
+- Подсвечивает что действие началось в прошлом, все еще продолжается или влияет на настоящее( с since, for, all day, how long)
+    - He has been looking for a job since he graduated.
+    - How long have you been studying English?
 - Используется чтобы говорить о незаконченных действиях которые начались в определенный момент в прошлом и не закончились до сих пор или закончились только что, с акцентом на **длительности** не важно закончилось оно или нет
     - She has been studying for three hours.
+    - I'm exhausted. I have been working on this problem for several weeks
 - Если нужно сделать **акцент** именно на длительности и продолжающейся натуре
     - I have been writing an essay for two hours. I haven't finished yet. I can’t go out.
     - He’s out of breath because he has been running.
