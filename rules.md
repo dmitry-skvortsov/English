@@ -2396,7 +2396,47 @@ caused confusion to me.)
 - Для неформалной замены become
     - Formal: *He **became** angry.*\
     - Informal: *He **got** angry.*\
-
+## **Слова связки**
+- Использовать эти предложения в начале истории, ставить запятую после:
+    - First of all,
+    - To start off with,
+    - To begin with,
+    - Once,
+- Продолжение истории
+    - Then,
+    - After that,
+    - Next,
+    - As soon as..
+    - ... but then...
+- Следующие выражения используются для добавления информации
+    - What's more
+    - Also
+- Если нужно сказать что вы на самом деле думаете, или ввестити что-то неожиданное
+    - Actually,
+    - To be honest,
+    - To tell you the truth,
+    - Believe me,
+- Чтобы сменить направление дискуссии
+    - By the way,
+- Рассказать о чем-то неожиданном, или отличное от того что сейчас было сказано
+    - ...(but) even so,
+    - on the whole,
+    - However,
+    - Despite something/ doing something/ the fact (that)
+    - Yet
+- Это слово поможет ввести идею которая второй выбор или вероятность
+    - Instead,
+- Обобщающее утверждение
+    - On the whole,
+    - In general,
+    - Generally,
+- Чтобы добавить напряжения можно использовать:
+    - Suddenly,
+    - All of a sudden,
+    - Unexpectedly,
+- Конец истории вводится 
+    - Finally,
+    - In the end,
 ## **TODO** 
 - in case(нужно узнать для случаев не входящих в обычные conditionals)
 - real and unreal conditionals with if 1, 2 в разделе грамматики
