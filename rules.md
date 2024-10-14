@@ -267,6 +267,9 @@
 ## **Present Simple**
 ### Active
 #### Использвание
+- Do, does, did are used in affirmative sentences or imperatives to express emphasis.
+    - do/does/did + infinitive
+    - It does make a good first impression!
 - для фактов
     - Multitaskers cope with several tasks at once.
 - привычки
@@ -442,7 +445,7 @@
 -   
 ## **Present Perfect**
 ### Active
-#### Использвание
+#### Использование
 - Используется чтобы говорить о завершенном действии в неопределенный момент с результатом в настоящем, с фокусом на завершенности действия и результате (already, ever, never, yet, lately, recently, just, so far, of late, etc.)
     - Have you finished your work yet?
 - о состояних и действиях которые начались в прошлом и продолжаются до настоящего времени.( с since and for и глаголоми которые обычно имеют континоусные формы)
