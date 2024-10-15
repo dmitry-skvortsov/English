@@ -264,6 +264,10 @@
 ##### ?
 ###### (Wh-word) + had + I/you/we, etc. + been + Ving                          
 - Had you been waiting long before I arrived?                     
+## **Специальные формы прошлого**
+- Was/were suppose/mean to чтобы говорить о договоренностях и ожиданиях в прошлом. Часто эта структура значит что что-то пошло не так как планировалось.
+    - They were meant to call her at 2 p.m.
+    - He was supposed to meet me an hour ago!
 ## **Present Simple**
 ### Active
 #### Использвание
@@ -1085,7 +1089,8 @@
     - She used to avoid eating vegetables, but now she can't imagine a meal without them.
     -  As children, we would play computer games after school. As children, we used to play computer games after school.
 - would + V
-    - would используется только с глаголами действий и когда время в которое это происходило явно указано.
+    - would используется только с глаголами действий и когда время в которое это происходило явно указано. Например можно указывать время в начала предложения.
+        - When I was a kid, I would wake up early.
     - would не используется для stative verbs 
         - заменяется на used to: My grandma used to be a teacher when she was younger
     - would используется только в в утвердительных предложениях
@@ -2305,6 +2310,19 @@ caused confusion to me.)
 - Use "asked somebody to do" / "asked somebody not to do" для вопросов
     - "Can you show me the receipt?" → The shop assistant asked me to show the receipt.
     - "Can you not listen to loud music?" → He asked me not to listen to loud music.
+## **Умягчители приказов и запросов**
+- Для вежливых вопросов использовать subject + verb
+    - Can you get me a ticket? → I was wondering if you could get me a ticket.
+- I was hoping you could …
+    - I was hoping you could cover my shift on Friday.
+- I was wondering if you could …
+- Do you think you might be able to / could …
+    - Do you think I might be able to leave a few minutes early?
+- Would you mind + -ing …
+- I thought perhaps you could/would …
+- I hoped you would …
+    - I hoped you would write me a letter of recommendation.
+ 
 ## **Who, which, where**
 ### Определяющие относительные предложения
 - Используется для предостовления основной информации о персоне, месте, или том что это или что делает.
