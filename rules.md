@@ -2322,7 +2322,6 @@ caused confusion to me.)
 - I thought perhaps you could/would …
 - I hoped you would …
     - I hoped you would write me a letter of recommendation.
- 
 ## **Who, which, where**
 ### Определяющие относительные предложения
 - Используется для предостовления основной информации о персоне, месте, или том что это или что делает.
