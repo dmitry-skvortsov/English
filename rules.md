@@ -1,5 +1,5 @@
 
-# **Дениска привет**
+# **English**
 ## **unreal tenses**
 ### I wish/if only + Past Simple/Would
 #### Использование
@@ -737,6 +737,18 @@
 ##### **?** Will + S + be + Ving?
 - Will you be watching a new TV show at 6 pm today?
 ### Passive
+## **Future Perfect**
+- Использование
+    - Используется для описания действий, которые закончились перед определенный событием в будущем
+- Формы
+    - will + have + V (past participle)
+        - She'll have gotten a bionic eye by tomorrow morning.
+## **Future Perfect Continuous**
+- Использование
+    - Используется для описания действий, которые продолжаются определенное время перед определенный событием в будущем
+- Формы
+    - will + have + been + Ving
+        - They will have been testing the new method for 2 hours by the time I come.
 ## **Артикли**
 ### Использвание
 - a/an используется с исчислимыми существительными единственного числа
