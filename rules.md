@@ -629,6 +629,7 @@
         - Look at the sky! It is going to rain.
         - There are more and more robots around us, so they are going to replace people soon.
         - They are going to have a picnic in the park.
+        
     - S + am/is/are + not + going to + V
         - We are not going to meet today.
         - My sister isn't going to have a baby in the near future.
@@ -637,7 +638,7 @@
         - When are they going to move? 
         - Are students going to take paper exams this year?
         - Is he going to travel abroad?  
-### **to be about to**
+### **to be about to/to be on the point of**
 - чтобы сказать о событиях которые очень скоро случаться, или начаниют случаться
     - I am about to leave for work. (I will leave very soon, possibly within a few moments.)
 - Формы
@@ -664,22 +665,42 @@
     - ? 
         - (Wh-word) + do/does + S + plan/intend/mean + to + V (base form)?
             - What do you mean to do with that information?
+### **be likely/ unlikely to + infinitive**
+- be like/unlikely to + infinitive чтобы сказать что что-то в будущем возможно, не возможно
+    - They are unlikely to arrive tonight
+### **be certain / sure / bound to + infinitive**
+- чтобы сказать что что-то начинает выполняться или должно быть ожидаемо
+    - When you drive too fast, you are bound to have an accident.
+    - The party is sure to be an unforgettable event.
+- Be certain / sure to + infinitive (not be bound to) могут использоваться как императивы
+    - Be sure / certain to call me when you arrive!
+### **be due to + infinitive**
+- чтобы сказать что что-то ожидается что произойдет в определенное время
+    - The company's chief executive is due to retire next year.
+### **To be to**
+- Довольно формальный способ говорить о планах на будущее
+    - We are to get married in July.
 ## **Future Simple**
 ### Active
 #### Использвание
 - факты о будущем в которых мы не полностью уверены, часто с probably
     - It will probably rain tomorrow.
+    - The election will take place on the 25 of March.
 - прогнозы на будущее основанные на личном мнении или знаниях(Аналоги i think)
     - I think she will win the competition.
     - They won't be late for the meeting.
     - I think I will go to the cinema in the evening.
     - The bike won’t break , it's brand-new.
+    - I believe the whole world will never go cashless.
 - решения принятые в момент говорения
     - I see this bag is heavy. I will help you.
+    - Oh, I will pay in cash then.
 - обещания и надежды на будущее
     - We will make sure to deliver the results on time.
     - I promise, I will return your book tomorrow.
+    - I promise I will pay you back tomorrow!
 - предложения
+    -  will help you with your project! (or if it's a question: Shall I help you with your project?)
 
 #### Ключевые слова
 
@@ -738,17 +759,21 @@
 - Will you be watching a new TV show at 6 pm today?
 ### Passive
 ## **Future Perfect**
-- Использование
-    - Используется для описания действий, которые закончились перед определенный событием в будущем
-- Формы
-    - will + have + V (past participle)
-        - She'll have gotten a bionic eye by tomorrow morning.
+- Active
+    - Использование
+        - Используется для описания действий, которые закончились перед определенный событием в будущем
+    - Формы
+        - will + have + V (past participle)
+            - She'll have gotten a bionic eye by tomorrow morning.
+- Passive
 ## **Future Perfect Continuous**
-- Использование
-    - Используется для описания действий, которые продолжаются определенное время перед определенный событием в будущем
-- Формы
-    - will + have + been + Ving
-        - They will have been testing the new method for 2 hours by the time I come.
+- Active
+    - Использование
+        - Используется для описания действий, которые продолжаются определенное время перед определенный событием в будущем
+    - Формы
+        - will + have + been + Ving
+            - They will have been testing the new method for 2 hours by the time I come.
+- Passive
 ## **Артикли**
 ### Использвание
 - a/an используется с исчислимыми существительными единственного числа
@@ -1603,29 +1628,49 @@ Jack and Ivan are such clever boys!
 #### Выражают план, намерение или будущее действие(инфинитиная форма подчеркивает цель или назначение действия)
 - Используется как субъект
     - To run is good exercise.
+- После абстрактных существительных(сформированных из глагола или прилагательного)
+    - ability
+    - advice
+    - offer
+    - decision
+    - chance
+    - dream
+    - opportunity
+    - permission
+    - tendency
 - Используется как объект
     - I like to swim.
 - Для выражения стремлений и намерений
     - I came to study.
     - We came there to talk to the professor.
-
 - Используется после too + прилагательное
     - It is too cold to walk outside.
 - Использьуется после прилагательное + enough
     - She is brave enough to ask him about it.
+- После слов и их производных 
+    - something
+    - anything
+    - nothing
 - Используется bare infinitive( без to)
     - после определенных глаголов
         - let   
             - Let me do this task for you.
         - make
-            - He made me go with them.
+            - *He made me go with them.*
+            - *My boyfriend always makes me laugh. He’s so funny!*
         - see
         - hear
     - после модальных глаголов
         - can
             - You can trust them.
         - must
+        - needn’t (need never)
+            - You needn’t worry about the outcome. Everything is under control!
+        - had better
+            - *You’d better stop talking to me like this.*
+        - would rather
         - should etc.
+            - *I should spend less time online.*
 - После определенных глаголов + noun/pronoun
     - ask
     - expect
@@ -1657,12 +1702,14 @@ Jack and Ivan are such clever boys!
         - *He begged to stay longer.*
     - **Care** 
         - *Do you care to join us?*
+    - **Can('t) afford**
     - **Choose** 
         - *She chose to stay at home.*
     - **Claim** 
         - *He claims to know the answer.*
     - **Consent** 
         - *She consented to be interviewed.*
+    - **Come**
     - **Decide** 
         - *They decided to go out.*
         - *He decided to leave.* (expresses a future action or intention)
@@ -1671,20 +1718,27 @@ Jack and Ivan are such clever boys!
         - *He demanded to speak to the manager.*
     - **Deserve** 
         - *She deserves to win the prize.*
+    - **Dare**
     - **Expect** 
         - *They expect to arrive early.*
+        - *I expect to be back within two days.*
     - **Fail** 
         - *He failed to finish on time.*
+        - *Mariam has failed to spend the whole day without social media.*
+    - **Get**
     - **Happen** 
         - *She happened to see him at the store.*
     - **Hope** 
         - *They hope to travel soon.*
+    - **Help**
+    - **Hurry**
     - **Intend** 
         - *He intends to study law.*
     - **Learn** 
         - *She learned to drive when she was 18.*
     - **Manage** 
         - *He managed to pass the exam.*
+        - *I have no idea how previous generations managed to live without technology.*
     - **Offer** 
         - *They offered to help.*
     - **Plan** 
@@ -1717,7 +1771,8 @@ Jack and Ivan are such clever boys!
     
     - (дублирование инф из Герундия) - После определенных глаголов может быть как gerund так и infinitive, **без смены смысла**
         - begin
-            She began  to sing.
+            - *She began  to sing*
+            - *Julie began to paint/painting the room.*
         - continue
             - He continued to talk.
         - prefer
@@ -1731,6 +1786,11 @@ Jack and Ivan are such clever boys!
         - like
             - I like to ski.  
             - She likes  to swim.
+        - can't bear
+            - *I can’t bear to see/seeing Kelly cry.*
+        - can't stand
+        - propose
+        - intend
     - (дублирование инф из Герундия) После определенных глаголов может быть как gerund так и infinitive, **но со сменой смысла**
         - forget
             Don't forget to meet him.(Action of meeting) 
@@ -1738,7 +1798,6 @@ Jack and Ivan are such clever boys!
             - He stopped drinking coffee. (He doesn't drink coffee any more.)
             - He stopped to drink a cup of coffee. (He stopped something else in order to have a cup of coffee.)
             - He stopped to smoke. (He stopped doing something in order to smoke)
-
         - try
             - Try swimming. (Try and see if you enjoy the activity.)
             - Try to swim. (Make an effort to do it.)
@@ -1800,6 +1859,7 @@ Jack and Ivan are such clever boys!
             - *She completed writing her thesis.*
         -  **Consider** 
             - *They considered moving to another city.*(the action of considering is ongoing)
+            - *Leo is considering using the internet less.*
         -  **Delay** 
             - *He delayed responding to the email.*
         -  **Deny** 
@@ -1812,6 +1872,7 @@ Jack and Ivan are such clever boys!
             - *She enjoys reading books.* (emphasizes the ongoing pleasure of the activity)
         -  **Escape** 
             - *He escaped being caught.*
+        -  **Give up**
         -  **Finish** 
             - *She finished doing her homework.*
         -  **Imagine** 
@@ -1834,6 +1895,7 @@ Jack and Ivan are such clever boys!
             - *I recall meeting him at the party.*
         -  **Recommend** 
             - *They recommend taking the train.*
+            - *I recommend installing a new app on your phone.*
         -  **Regret** 
             - *He regrets not studying harder.*
         -  **Resist** 
@@ -1846,23 +1908,32 @@ Jack and Ivan are such clever boys!
             - *He doesn't mind waiting.*
         - **be used to**
         - **can't help**
+            - *Uma can’t help thinking about the dangers of using the internet so often.*
+        - **end up**
     - Как объекты в фразовых глаголах
         - She looks forward to meeting you.
     - После определенных глаголов может быть как gerund так и infinitive, **без смены смысла** ну или с очень малым изменением
-        - begin 
-            - She began singing
+        - begin
+            - *She began  to sing*
+            - *Julie began to paint/painting the room.*
         - continue
-            - He continued talking
+            - He continued to talk.
         - prefer
-            - I prefer walking
+            - I prefer to walk.
         - start
-            - They started running
+            - They started to run.
         - love
-            - He loves reading
+            - He loves to read.
         - hate
-            - They hate being late
+            - They hate to be late.
         - like
-            
+            - I like to ski.  
+            - She likes  to swim.
+        - can't bear
+            - *I can’t bear to see/seeing Kelly cry.*
+        - can't stand
+        - propose
+        - intend
             - I like skiing.
             - he likes swimming
     - После определенных глаголов может быть как gerund так и infinitive, **но со сменой смысла**
@@ -1886,7 +1957,14 @@ Jack and Ivan are such clever boys!
             - I remembered to call her. (I remembered and then I called her) 
             - Remember to lock the door when you leave. (=Don't forget to do it.) 
             - Do you remember ordering this book? (=Do you have a memory of this?)
-
+    - После конструкций be/get used to
+    - После выражений 
+        - it's no use
+        - there's no point in
+        - it's worth
+        - be busy
+        - have difficulty/trouble
+        - waste of time (можно продолжить и герундием)
 ### Passive
 - modal + be + Ved/V3
     - The rules must be followed.
