@@ -955,6 +955,23 @@
         - Употребляется для выражения того, что что-то могло произойти в прошлом, но нет уверенности.
             - She could have taken a different route. (Она могла пойти другим путём.)
         - Уровень уверенности: средний или гипотетический.
+## **Специальные формы для прошлого**
+- to be meant to do
+    - конструкция используемая чтобы сказать что нужно сделать что-то, потому что кто-то сказал ему сделать это,
+    или они ответственны за это
+        - They were meant to call her at 2 p.m.
+    - кто-то или что-то намеревается сделать что-то
+        - The table was meant to present new figures.
+- to be supposed to do
+    - что кто-то должен или не должен сделать, особенно из-за правил или того, что кто-то авторитетный так сказал
+         - What time are you supposed to be there?
+    - что должно было или ожидается или должно произойти, особенно когда не должно было
+        - The meeting was supposed to take place tomorrow.
+- be supposed/meant to(for the Pat tenses)
+    - Используется was/were supposed/meant to чтобы говорить о договоренностях или ожиданиях в прошлом
+    Часто конструкция значит что что-то не произошло как ожидалось
+        - They were meant to call her at 2 p.m.
+        - He was supposed to meet me an hour ago!
 ## **Модальные глаголы**
 ### Passive modal
 - modal + be + Ved/V3
@@ -1766,9 +1783,6 @@ Jack and Ivan are such clever boys!
     - **Wish** 
         - *She wishes to travel the world.*
     - **Need**
-    
- 
-    
     - (дублирование инф из Герундия) - После определенных глаголов может быть как gerund так и infinitive, **без смены смысла**
         - begin
             - *She began  to sing*
@@ -1899,7 +1913,7 @@ Jack and Ivan are such clever boys!
         -  **Regret** 
             - *He regrets not studying harder.*
         -  **Resist** 
-            - *She couldn�t resist eating the cake.*
+            - *She couldn't resist eating the cake.*
         -  **Risk** 
             - *He risks losing his job.*
         -  **Suggest** 
