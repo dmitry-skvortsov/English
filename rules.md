@@ -774,6 +774,26 @@
         - will + have + been + Ving
             - They will have been testing the new method for 2 hours by the time I come.
 - Passive
+## **Passive voice in general**
+- For **Simple** tenses **to be+V3**
+    - Some useful tips are given in this video.
+    - This building was designed two centuries ago.
+    - My order will be delivered tomorrow.
+- For **Continuous** tenses **to be + being + V3**
+    - My laptop is being used during the presentation.
+    - Children were being watched attentively.
+- For **Perfect** tenses **have/has/had been + V3** (Perfect continuous обычно заменяется на активную форму)
+    - Haven't you been asked for help?
+    - My phone has been stolen.
+    - An important decision had been made without me.
+- For **gerunds** **being + V3**
+    - He likes being treated like a child.
+    - The building stopped being used as a cinema.
+- For **infinitives**  **(to) be + V3**
+    - I don't want to be fooled again.
+    - Tables in our restaurant can't be reserved during weekends.
+- После need и активный герундий и пассивный инфинитив могут быть взаимозаменяемы
+    - My hair needs washing. = My hair needs to be washed.
 ## **Артикли**
 ### Использвание
 - a/an используется с исчислимыми существительными единственного числа
@@ -1982,7 +2002,6 @@ Jack and Ivan are such clever boys!
 ### Passive
 - modal + be + Ved/V3
     - The rules must be followed.
-
 ## **Impersonal passive structures**
 - Используются чтобы передать слова, мнения и веры других людей, или обеспечить дистанцирование от личный утверждений
   Используются чтобы отказаться от использования таких слов как they, some people и других, в качестве подлежащего.
