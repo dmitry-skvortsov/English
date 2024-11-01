@@ -1982,6 +1982,26 @@ Jack and Ivan are such clever boys!
 ### Passive
 - modal + be + Ved/V3
     - The rules must be followed.
+
+## **Impersonal passive structures**
+- Используются чтобы передать слова, мнения и веры других людей, или обеспечить дистанцирование от личный утверждений
+  Используются чтобы отказаться от использования таких слов как they, some people и других, в качестве подлежащего.
+    - This man is believed to be dangerous.
+    - It’s said that the exam isn’t very difficult.
+    - Henry is reported to have received an award for his contribution.
+- Формы 
+    - It is + said / thought / believed / expected / reported / known / understood + that …
+        - It is believed that she is a teacher.
+        - It’s reported that he landed in London yesterday.
+        - It is known that he’s already landed in London.
+    - Для настоящего и будущего времени используется
+    subject + is/are + said / thought / believed / expected / reported / known / understood + to V1
+        - She is said to be a teacher.
+        - Tom is expected to land in London.
+    - Прошедшего времени используется 
+    subject + is/are + said / thought / believed / expected / reported / known / understood + to have + V3
+        - He is said to have entered the house through the window.
+        - Tom is expected to have landed in London.
 ## **Relative clauses**
 ### Использование
 - who , which, that, where для дачи информации о ком-то или чем-то, важную для понимания о чем идет речь. В таких предложениях не используется запятая.
