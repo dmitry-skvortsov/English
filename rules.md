@@ -267,10 +267,6 @@
 ##### ?
 ###### (Wh-word) + had + I/you/we, etc. + been + Ving                          
 - Had you been waiting long before I arrived?                     
-## **Специальные формы прошлого**
-- Was/were suppose/mean to чтобы говорить о договоренностях и ожиданиях в прошлом. Часто эта структура значит что что-то пошло не так как планировалось.
-    - They were meant to call her at 2 p.m.
-    - He was supposed to meet me an hour ago!
 ## **Present Simple**
 ### Active
 #### Использвание
