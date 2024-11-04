@@ -3,53 +3,6 @@
 ##  - [Фразовые глаголы](./prasal_v.html)
 ##  - [Предлоги и связки](./conjunctions.html)
 ##  - [Неправильные глаголы](./verbs.html)
-## **Unreal or Hypothetical structures**
-### I wish/if only + Past Simple/Would
-#### Использование
-- Использу есть для выражения сожалений или желаний. Мы воображаем другое настоящее или прошлое
-    - if only и wish взаимозаменяемы, но if only более выразительно
-#### Формы
-##### wish / if only + Past Simple/Continuous
-- Выражает желания о настоящем, мы хотим чтобы что-то было по другому сейча, но это сейчас не возможно
-    - I wish you weren't leaving tomorrow. (But you're leaving.)
-    - If only I could turn back time. (But I cannot do it.)
-    - You don't know how to swim.
-        - I wish I knew how to swim.
-        - If only I knew how to swim.
-##### wish / if only + Past Perfect
-- Выражает сожаление о прошлом, мы хотим тим изменить что-то что уже произошло
-    - I wish I had apologised properly in front of your family last night. (But I didn't do it.)
-    - If only the editor hadn't mentioned the actor's divorce in the article. (But they mentioned it.)
-##### wish / if only + would + infinitive
-- Выражает раздражение или критику, мы хотем чтобы чье-то поведение изменилось или что-то произошло
-    - Dan wishes Tracy would stop bringing up her personal issues during meetings.
-    - If only someone would come up with a quick solution.
-    - Your neighbour plays music loudly.
-        - I wish my neighbour wouldn't play music so loudly.
-        - If only my neighbour wouldn't play music so loudly.
-- **Важно** Изменения должно быть возможно! Если это не возможно или не под нашим контролем, нужно использовать другую форму - **wish / if only + Past Simple.**
-    - I wish celebrities would open up more about their struggles. (It's possible.)
-    - I wish we had more free time. (But now it's impossible.)
-- **Важно** Если субект и объект это одно и тоже лицо,
-нельзя использовать would, нужно использвать **Past Simple**
-    - I wish I could hear my deceased grandfather’s voice one more time.
-### It's (high/about) time + clause
-#### Использование
-- Чтобы сказать что что-то происходит, но не должно было бы
-- Нельзя использовать отрицательную форму в it's time
-#### Формы
-##### It's (high/about) time (that) + Past Simple/Continuous
-- It's high time (that) you arranged an interview with her.
-- It's time (that) Oliver was / were promoted to a producer.
-### Would rather/sooner + clause
-#### Формы
-##### would ('d) rather/sooner + Past Simple/Continuous
-- Выражение предпочтений или дача совета в вежливой форме. Форма прошлого времени относится к настоящему и будущему
-    - She'd rather you didn't talk behind her colleague's back.
-    - We'd sooner you made a comeback this summer.
-##### would ('d) rather/sooner + Past Perfect
-- Выражает предпочтения или желания о прошлом
-    - I'd rather you hadn't watched that documentary. Look how concerned it made you.
 ## **Past Simple**
 ### Active
 #### Использвание
@@ -2334,6 +2287,53 @@ caused confusion to me.)
 - If it hadn't been for the head's commercial acumen, we would have lost our position in the market.
 ##### But for + somebody/something, would/wouldn’t + have + V3
 - Chris would never have become a doctor but for the support of his parents.
+## **Unreal or Hypothetical structures**
+### I wish/if only + Past Simple/Would
+#### Использование
+- Использу есть для выражения сожалений или желаний. Мы воображаем другое настоящее или прошлое
+    - if only и wish взаимозаменяемы, но if only более выразительно
+#### Формы
+##### wish / if only + Past Simple/Continuous
+- Выражает желания о настоящем, мы хотим чтобы что-то было по другому сейча, но это сейчас не возможно
+    - I wish you weren't leaving tomorrow. (But you're leaving.)
+    - If only I could turn back time. (But I cannot do it.)
+    - You don't know how to swim.
+        - I wish I knew how to swim.
+        - If only I knew how to swim.
+##### wish / if only + Past Perfect
+- Выражает сожаление о прошлом, мы хотим тим изменить что-то что уже произошло
+    - I wish I had apologised properly in front of your family last night. (But I didn't do it.)
+    - If only the editor hadn't mentioned the actor's divorce in the article. (But they mentioned it.)
+##### wish / if only + would + infinitive
+- Выражает раздражение или критику, мы хотем чтобы чье-то поведение изменилось или что-то произошло
+    - Dan wishes Tracy would stop bringing up her personal issues during meetings.
+    - If only someone would come up with a quick solution.
+    - Your neighbour plays music loudly.
+        - I wish my neighbour wouldn't play music so loudly.
+        - If only my neighbour wouldn't play music so loudly.
+- **Важно** Изменения должно быть возможно! Если это не возможно или не под нашим контролем, нужно использовать другую форму - **wish / if only + Past Simple.**
+    - I wish celebrities would open up more about their struggles. (It's possible.)
+    - I wish we had more free time. (But now it's impossible.)
+- **Важно** Если субект и объект это одно и тоже лицо,
+нельзя использовать would, нужно использвать **Past Simple**
+    - I wish I could hear my deceased grandfather’s voice one more time.
+### It's (high/about) time + clause
+#### Использование
+- Чтобы сказать что что-то происходит, но не должно было бы
+- Нельзя использовать отрицательную форму в it's time
+#### Формы
+##### It's (high/about) time (that) + Past Simple/Continuous
+- It's high time (that) you arranged an interview with her.
+- It's time (that) Oliver was / were promoted to a producer.
+### Would rather/sooner + clause
+#### Формы
+##### would ('d) rather/sooner + Past Simple/Continuous
+- Выражение предпочтений или дача совета в вежливой форме. Форма прошлого времени относится к настоящему и будущему
+    - She'd rather you didn't talk behind her colleague's back.
+    - We'd sooner you made a comeback this summer.
+##### would ('d) rather/sooner + Past Perfect
+- Выражает предпочтения или желания о прошлом
+    - I'd rather you hadn't watched that documentary. Look how concerned it made you.
 ## **Causatives: "have" и "get"**
 - Обычно have something done, используется когда коворится когда рассказывается что мы заплатили кому-то чтобы сделать что-то для нас. Обычно речь идет о сервисах.
     - **Have + object + past participle**
@@ -2531,9 +2531,9 @@ caused confusion to me.)
     - I didn\'92t **get** the joke.\
 - принести
     - Can you **get** me some water, please?\
-    - I\'92ll **get** the keys from the car.\
+    - I\'ll **get** the keys from the car.\
 - заставлять или уговаривать
-    - I\'92ll **get** him to call you later.\
+    - I\'ll **get** him to call you later.\
     - She **got** her brother to help with the project.\
 - иметь шанс(opportunity)
     - I **got** to meet the CEO last week.\
@@ -2544,7 +2544,7 @@ caused confusion to me.)
     - **Get along** \'96 to have a good relationship\
     - **Get rid of** \'96 to remove or eliminate\
 - Используется с прилагательными чтобы показать изменение в физическом, эмоциональном или ситуационном состоянии
-    - *It\'92s **getting** dark* (transitioning from light to dark).\
+    - *It\'s **getting** dark* (transitioning from light to dark).\
     - *She **got** tired after working all day* (changed from feeling energetic to feeling tired).\
     - *I\'92m **getting** hungry* (beginning to feel hungry).\
 - Чтобы показать медленное изменение со временем
