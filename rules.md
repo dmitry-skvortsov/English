@@ -3,7 +3,7 @@
 ##  - [Фразовые глаголы](./prasal_v.html)
 ##  - [Предлоги и связки](./conjunctions.html)
 ##  - [Неправильные глаголы](./verbs.html)
-## **unreal tenses**
+## **Unreal or Hypothetical structures**
 ### I wish/if only + Past Simple/Would
 #### Использование
 - Использу есть для выражения сожалений или желаний. Мы воображаем другое настоящее или прошлое
@@ -50,20 +50,6 @@
 ##### would ('d) rather/sooner + Past Perfect
 - Выражает предпочтения или желания о прошлом
     - I'd rather you hadn't watched that documentary. Look how concerned it made you.
-## **Speaking about the present** 
-### Keep, be prone to, tend to, have a tendency to, as a rule)
-- Используются чтобы говорить о типичных действиях или состояних в настоящем
-### Формы
-- to keep + gerund
-    - The client keeps asking for a refund.
-- to be prone to + gerund / infinitive (обычно применяется с негативными ситуациями)
-    - Mark is prone to catch colds in the autumn.
-    - Mark is prone to catching colds in the autumn.
-- to tend to / to have a tendency to + infinitive
-    - I tend to forget people's names.
-    - We have a tendency to get together on Sundays.
-- As a rule, + a clause
-    - As a rule, I try not to work at weekends.
 ## **Past Simple**
 ### Active
 #### Использвание
@@ -1221,6 +1207,20 @@
     - ?
         - (Qw) + auxiliary verb + S + get used to + Ving
             - Does he get used to working hard?
+## **Habit, Routine and Tendency** 
+### Keep, be prone to, tend to, have a tendency to, as a rule)
+- Используются чтобы говорить о типичных действиях или состояних в настоящем
+### Формы
+- to keep + gerund
+    - The client keeps asking for a refund.
+- to be prone to + gerund / infinitive (обычно применяется с негативными ситуациями)
+    - Mark is prone to catch colds in the autumn.
+    - Mark is prone to catching colds in the autumn.
+- to tend to / to have a tendency to + infinitive
+    - I tend to forget people's names.
+    - We have a tendency to get together on Sundays.
+- As a rule, + a clause
+    - As a rule, I try not to work at weekends.
 ## **Предлоги времени**
 ### At
 #### определенное время
