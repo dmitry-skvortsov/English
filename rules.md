@@ -1662,6 +1662,45 @@ Jack and Ivan are such clever boys!
     subject + is/are + said / thought / believed / expected / reported / known / understood + to have + V3
         - He is said to have entered the house through the window.
         - Tom is expected to have landed in London.
+## **Complex object**
+- verb + object + infinitive 
+   - Использовать complex objects после определенных глаголов
+        - assume
+        - believe
+        - discover
+        - expect
+        - imagine
+        - know
+        - prove 
+        - suppose
+        - think
+        - consider
+        - find
+            - Their parents find the decision to be thoughtless.
+        - desire 
+        - want
+            - I want you to stop criticising their choices.
+        - wish
+        - like
+        - dislike
+        - intend
+        - ask
+        - permit
+        - order
+        - allow
+            - He allowed us to speak after him.
+        - advise
+        - request
+        - bag
+    - глаголы чувств
+        - infinitive без to для закончившихся действий
+            - We heard him complain about his wife. (the single or completed action)
+        - present participle(verb+ving) для незакончившихся действий
+            - Teachers saw him explaining maths to his son. (the action in progress)
+    - Фразы с for + to infinitive
+        - It is difficult for me to take sides in this matter.
+        - Fortunately, there is no need for me to risk anything.
+        - I left something under your door for you to read.
 ## **Relative clauses**
 ### Использование
 - who , which, that, where для дачи информации о ком-то или чем-то, важную для понимания о чем идет речь. В таких предложениях не используется запятая.
