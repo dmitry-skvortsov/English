@@ -1691,7 +1691,13 @@ Jack and Ivan are such clever boys!
             - He allowed us to speak after him.
         - advise
         - request
-        - bag
+        - beg
+    - некоторые глаголы с infinitive без To
+        - let
+        - make
+            - Don’t make me reconsider my decision!
+        - have
+        - help
     - глаголы чувств
         - infinitive без to для закончившихся действий
             - We heard him complain about his wife. (the single or completed action)
