@@ -900,19 +900,36 @@
     - Must have + V3 (Participle)
         - Употребляется, когда говорящий почти уверен, что что-то произошло в прошлом.
             - She must have left early. (Она, должно быть, ушла рано.)
+            - You must have watched this film — it's quite old.
+            - Maria was fired last week. She must have failed her project.
         - Уровень уверенности: высокий.
-    - May/Might have + V3
-        - Используются, когда говорящий предполагает возможность произошедшего, но не уверен.
+    - May(not)/Might(not) have + V3
+        - Используются, когда говорящий предполагает возможность/вероятность произошедшего, но не уверен.
             - They may have forgotten the meeting. (Возможно, они забыли о встрече.)
+            - Where is my phone? I might have left it at home … or in the taxi.
+            - Don’t worry, he might have forgotten to call you.
         - степень уверенности: средний или низкий.
     - Can’t/Couldn’t have + V3
         - Употребляется, когда говорящий почти уверен, что что-то не могло произойти.
             - He can’t have been serious. (Он не мог быть серьёзен.)
+            - You can't have seen Leon yesterday — he's in Spain now.
+            - He couldn't have finished this report in just a day. It usually takes about a week.
         - Уровень уверенности: высокий, но отрицательный.
-    - Could have + V3
-        - Употребляется для выражения того, что что-то могло произойти в прошлом, но нет уверенности.
+    - Could have + V3 (не используется в положительных предложениях)
+        - Употребляется для выражения того, что что-то могло произойти в прошлом, но не произошло.
+        - Использовуется чтобы критиковать кого-то или что-то вежливо.
+        - Используется чтобы сказать что что-то возможно было правдой, но мы не уверены.
             - She could have taken a different route. (Она могла пойти другим путём.)
+            - You could have told me that you were running late.
+            - You could have slept more instead of watching that reality show.
+            - Leo could have broken the window, but I didn't see it.
         - Уровень уверенности: средний или гипотетический.
+    - Should/shouldn't + have + V3
+        - Используется чтобы критиковать прошлые действия.
+        - Чтобы сказать что что-то было хорошей идеей, но это не произошло
+        - Сказать о сожаления что вы что-то сделали или не сделали
+            - Your granny was very nervous, you should have phoned her to calm her down.
+            - You shouldn't have lent him any money! He never returns it.
 ## **Специальные формы для прошлого**
 - to be meant to do
     - конструкция используемая чтобы сказать что нужно сделать что-то, потому что кто-то сказал ему сделать это,
