@@ -2674,6 +2674,21 @@ caused confusion to me.)
 - Конец истории вводится 
     - Finally,
     - In the end,
+## **Clauses of contrast, concession and purpose**
+- Использовать while, whilst(whailt - пока),whereas(тогда как) когда мы говорим о 2 событиях и хотим их отделить друг от друга, мы также используем while в знячении в "в то же время", в этом случае while означает тоже что и whilst, после следует существительное, герундий или местоимение
+    - While some people think his comedy is funny, others find him offensive.
+    - He must be about 60, whereas his wife looks about 30.
+    - Whilst we were sitting down to dinner, the phone rang.
+- Чтобы выразить причину, часто используются so that и in order to. Мы можем использовать "so as not to/in order not to" для того чтобы выразить негативные причины. Далее следует инфинитив, после so that, мы можем использовать модальные глаголы.
+    - He trained a lot, so that he may win this competition.
+    - We must save money so as not to take out a loan at the end of the month.
+    - People must recycle plastic in order not to pollute the planet.
+- Мы можем использовать наречия "in spite of"(Несмотря на), "despite", "however", "on the other hand", "though" чтобы выразить concession. После "In spite of" и "despite" может следовать существительное, гурундий и местоимение. Although, though, even though используются в начале или середине предложения, though может идти в конце второй фразы, что довольно распространено в разговорном английском. 
+    - You are not allowed to go out after 10 pm; however, if your brother is with you, then you can.
+    - I like Mary as a friend, on the other hand, she is very callous.
+    - In spite of the fact that her elbow ached, Mary decided not to leave the tennis court.
+    - Bob paid the bill, despite existing financial constraints.
+    - Bob has a lot of financial constraints. He paid the bill, though.
 ## **TODO** 
 - in case(нужно узнать для случаев не входящих в обычные conditionals)
 - real and unreal conditionals with if 1, 2 в разделе грамматики
