@@ -3,6 +3,7 @@
 ##  - [Фразовые глаголы](./prasal_v.html)
 ##  - [Предлоги и связки](./conjunctions.html)
 ##  - [Неправильные глаголы](./verbs.html)
+##  - [Упражнения на cond](./ex_cond.md)
 ## **Past Simple**
 ### Active
 #### Использвание
