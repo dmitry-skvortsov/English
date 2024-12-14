@@ -24,7 +24,9 @@ Had you learnt more, you would pass the exam perfectly.
 15. Ты бы сдал экзамен, если бы учился больше.
 You would passed the exam, if you learned more.
 16. Это было бы лучше, если бы ты потратил больше времени на подготовку.
+It would be better, you spent more time on preparation.
 17. Жаль, что мы не начали проект раньше.
+If only we started this project earlier.
 18. Если бы ты выбрал этот путь, все было бы по-другому.
 19. Если бы я знал, что это важно, я бы сказал тебе об этом.
 20. Ты бы понял это, если бы я объяснил это подробнее.
