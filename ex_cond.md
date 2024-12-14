@@ -4,15 +4,25 @@
 4. Тебе следовало бы подумать об этом раньше.
 5. Я бы лучше провел вечер дома, если бы у меня не было работы.
 6. Если бы я был на твоем месте, я бы выбрал этот вариант.
+If i were you, i would choose this option.
 7. Мне кажется, ты лучше бы потратил время на изучение, а не на игры.
+I would rather you spent you time on studing but not on gaming.
 8. Если бы ты изучал больше, ты бы лучше сдал экзамен.
+If you studied more, you would have succieded more on exam.
 9. Я бы предпочел, чтобы ты не спешил с этим решением.
+I would rather you not russed with this deciecion.
 10. Я бы хотел, чтобы мы начали проект в этом месяце.
+I would rather us started the project in this month.
 11. Если бы ты сказал мне раньше, я бы сделал все по-другому.
+Had you told me this earlier, i would have made this other way.
 12. Ты бы успел на поезд, если бы поехал на такси.
+You wouldn't have catch the train, had you gone by taxi.
 13. Я бы не стал тратить деньги на это, если бы знал, что результат будет таким.
+I wouldn't have spent the money on this, Had i known about such result.
 14. Если бы ты учил больше, ты бы сдал экзамен на отлично.
+Had you learnt more, you would pass the exam perfectly. 
 15. Ты бы сдал экзамен, если бы учился больше.
+You would passed the exam, if you learned more.
 16. Это было бы лучше, если бы ты потратил больше времени на подготовку.
 17. Жаль, что мы не начали проект раньше.
 18. Если бы ты выбрал этот путь, все было бы по-другому.
