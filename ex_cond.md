@@ -9,11 +9,17 @@
 9. Жаль, что мы не наняли подрядчиков раньше, иначе ремонт уже был бы завершен.  
 10. Если бы ты обсудил детали с клиентом раньше, я бы договорился, чтобы условия были изменены.  
 11. Я сказал, что все документы нужно отправить сегодня, но, похоже, придётся сделать так, чтобы курьер доставил их лично.  
-12. Жаль, что она не уточнила сроки, ведь теперь нам приходится переписывать половину проекта.  
+I said, that all documents should have been sent today, but it seems like I have to will have the courier delivere it personnaly.
+12. Жаль, что она не уточнила сроки, ведь теперь нам приходится переписывать половину проекта. 
+I wish she had clarified time limits, so now we have to redo half of the project.
 13. Он сообщил, что проверил контракт, но я бы предпочёл, чтобы он попросил юриста подтвердить это.  
+He reported that he had checked the contract, but i would rather him got a lawyer to confirm it.
 14. Если бы я знал, что доставка задерживается, я бы настоял, чтобы её ускорили.  
-15. Она сказала, что ремонт завершат к концу недели, но я попросил прорабов уточнить даты.  
+If I had known that the delivery had been delayed, I would have insisted on speeding it up.
+15. Она сказала, что ремонт завершат к концу недели, но я попросил прорабов уточнить даты. 
+She said the renovation would be finished by the end of the week, but I got workers to clarify the dates.
 16. Жаль, что ты не обсудил этот вопрос с коллегами, потому что мы могли бы закончить проект быстрее.  
+If only you discussed this question with collegues, so we could finish the project earlier.
 17. Если бы они согласовали проект вовремя, я бы сделал так, чтобы работа началась сразу.  
 18. Я бы хотел, чтобы ты объяснил всё на собрании, потому что теперь мне приходится всё разъяснять за тебя.  
 19. Он рассказал, что документы готовы, но я попросил его отправить их повторно, чтобы избежать проблем.  
