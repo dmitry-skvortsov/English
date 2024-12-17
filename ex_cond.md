@@ -19,7 +19,7 @@ If I had known that the delivery had been delayed, I would have insisted on spee
 15. Она сказала, что ремонт завершат к концу недели, но я попросил прорабов уточнить даты. 
 She said the renovation would be finished by the end of the week, but I got workers to clarify the dates.
 16. Жаль, что ты не обсудил этот вопрос с коллегами, потому что мы могли бы закончить проект быстрее.  
-If only you discussed this question with collegues, so we could finish the project earlier.
+If only you had discussed this question with collegues, so we could have finished the project earlier.
 17. Если бы они согласовали проект вовремя, я бы сделал так, чтобы работа началась сразу.  
 18. Я бы хотел, чтобы ты объяснил всё на собрании, потому что теперь мне приходится всё разъяснять за тебя.  
 19. Он рассказал, что документы готовы, но я попросил его отправить их повторно, чтобы избежать проблем.  
