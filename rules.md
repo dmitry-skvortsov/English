@@ -5,6 +5,7 @@
 ##  - [Неправильные глаголы](./verbs.html)
 ##  - [Упражнения на cond](./ex_cond.md)
 ##  - [Ответы](./ans.md)
+##  - [linkin](./linking.md)
 ## **Past Simple**
 ### Active
 #### Использвание
