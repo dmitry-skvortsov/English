@@ -1,7 +1,11 @@
 Путешествия считаются одним из лучших способов открыть для себя мир, но их организация требует усилий. Говорят, что планирование путешествий помогает развивать навыки, которые полезны и в других аспектах жизни.
 Traveling is considered to be as one of the best ways to discover the world, but organizing it takes much effort. It is said, that arrainging of travels helps to develop skills, which are usefull in other aspects of life.
-Анна, которая привыкла отдыхать с друзьями, решила, что на этот раз она будет путешествовать самостоятельно. Она знала, что её чемодан надо было отремонтировать, и попросила мастера сделать это заранее. Однако, если бы она это сделала раньше, она бы избежала лишнего стресса. Ann, who is used to travel with friends, decided, that this time she would be traveling alone.
-She knew, that her suitcase had to be fixed, and got someone to do it in advance.
+
+Анна, которая привыкла отдыхать с друзьями, решила, что на этот раз она будет путешествовать самостоятельно. Она знала, что её чемодан надо было отремонтировать, и попросила мастера сделать это заранее. Однако, если бы она это сделала раньше, она бы избежала лишнего стресса. 
+
+Ann, who is used to travel with friends, decided, that this time she would be traveling alone.
+She knew, that her suitcase had to be fixed, and got someone to do it in advance. However, had she done it earlier, she would have avoided unneccesery stress.
+Few days befor trip she was busy preparing and thinking, if i had planned it better, i would have more time for the rest.  
 
 В последние дни перед поездкой она была занята подготовкой и думала: «Если бы я спланировала всё лучше, у меня осталось бы больше времени на отдых». Кроме того, ей хотелось бы, чтобы у неё был опыт изучения итальянского, так как поездка в Рим должна была стать для неё важным событием.
 
