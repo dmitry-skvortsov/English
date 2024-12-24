@@ -11,11 +11,16 @@ Few days befor trip she was busy preparing and thinking, if i had planned it bet
 
 В последние дни перед поездкой она была занята подготовкой и думала: «Если бы я спланировала всё лучше, у меня осталось бы больше времени на отдых». Кроме того, ей хотелось бы, чтобы у неё был опыт изучения итальянского, так как поездка в Рим должна была стать для неё важным событием.
 
+In the last few days before the trip, she was prepearing and thinking, had i planned it better, i would have had more time for the rest. Besides that, she wished she had experience studying Italian, as the trip to Rome meant to be an important event for her.
 
 
 Когда рейс был задержан, Анна осознала: «Если бы я знала об этом заранее, я бы приехала позже». Она использовала свободное время, чтобы выпить кофе в аэропорту, обдумывая, как организовать экскурсии.
 
+When flight was delayed, Ann realised: If I had known about it andvance, i would have arrived later. She used her freetime for drinking coffee at airport, thinking about excursion organisation 
+
 Прилетев в Рим, она сразу заказала экскурсию, чтобы не терять время. Ей порекомендовали, чтобы она посетила Колизей рано утром. Прогуливаясь по улицам города и наслаждаясь видом на старинные здания, она подумала: «Как бы я хотела остаться здесь надолго».
+
+Having arrived to Rome, 
 
 В ходе экскурсии ей рассказали, что Колизей строился в течение нескольких десятилетий, и ей показалось, что она могла бы узнать больше об этом месте, если бы заранее изучила его историю. Тем не менее, она решила: «Если я снова приеду в Италию, я буду лучше подготовлена».
 
