@@ -22,6 +22,7 @@ When flight was delayed, Ann realised: If I had known about it in advance, i wou
 Having arrived to Rome, she booked the tour straight away, in order to not waist her time. She was adviced, to visit Coliseum in early morning. Strolling down the streets and savouring the views of ancient Roman buildings, she thought "I wish i stayed here longer".
 
 В ходе экскурсии ей рассказали, что Колизей строился в течение нескольких десятилетий, и ей показалось, что она могла бы узнать больше об этом месте, если бы заранее изучила его историю. Тем не менее, она решила: «Если я снова приеду в Италию, я буду лучше подготовлена».
+During her tour she was told, that the Coliseum had been being built for several decades, it seemed to her, that she could have known about this place, had she studied its history beforce comming. Nevertheless, she decided: "If i come to Italy, i will be prepared better." 
 
 Анна заметила, что местные жители привыкли наслаждаться жизнью. Она даже сказала себе: «Если бы я жила здесь, я бы тоже привыкла к такому ритму». Но, к сожалению, ей нужно было вернуться на работу.
 
