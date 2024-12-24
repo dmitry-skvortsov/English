@@ -25,7 +25,8 @@ Having arrived to Rome, she booked the tour straight away, in order to not waist
 During her tour she was told, that the Coliseum had been being built for several decades, it seemed to her, that she could have known about this place, had she studied its history beforce comming. Nevertheless, she decided: "If i come to Italy, i will be prepared better." 
 
 Анна заметила, что местные жители привыкли наслаждаться жизнью. Она даже сказала себе: «Если бы я жила здесь, я бы тоже привыкла к такому ритму». Но, к сожалению, ей нужно было вернуться на работу.
-
+Ann noticed, that locals are used to enjoing their lifes.
+She enven said to herself: If i lived here, i would get used to such pace. Unfotuantly, she was meant to come back to work. 
 Возвращаясь домой, Анна размышляла о том, как путешествия изменили её отношение к жизни. Она сказала себе: «Пора начать планировать больше поездок, даже если придётся чем-то пожертвовать». Она также добавила: «Я бы предпочла тратить больше времени на себя, чем на рутину».
 
 
