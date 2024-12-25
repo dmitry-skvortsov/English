@@ -1,7 +1,11 @@
 #**First post**
 
 Путешествия считаются одним из лучших способов открыть для себя мир, но их организация требует усилий. Говорят, что планирование путешествий помогает развивать навыки, которые полезны и в других аспектах жизни.
+
 Traveling is considered to be as one of the best ways to discover the world, but organizing it takes much effort. It is said, that arrainging of travels helps to develop skills, which are usefull in other aspects of life.
+
+Traveling is considered one of the best ways to explore the world, but organizing a trip takes effort. It is said that planning trips helps develop skills that are useful in other areas of life.
+
 
 Анна, которая привыкла отдыхать с друзьями, решила, что на этот раз она будет путешествовать самостоятельно. Она знала, что её чемодан надо было отремонтировать, и попросила мастера сделать это заранее. Однако, если бы она это сделала раньше, она бы избежала лишнего стресса. 
 
@@ -9,26 +13,43 @@ Ann, who is used to travel with friends, decided, that this time she would be tr
 She knew, that her suitcase had to be fixed, and got someone to do it in advance. However, had she done it earlier, she would have avoided unneccesery stress.
 Few days befor trip she was busy preparing and thinking, if i had planned it better, i would have more time for the rest.  
 
+Anna, who was used to vacationing with friends, decided that this time she would travel alone. She knew her suitcase needed to be repaired and asked a craftsman to fix it in advance. However, if she had done it earlier, she would have avoided unnecessary stress.
+
 В последние дни перед поездкой она была занята подготовкой и думала: «Если бы я спланировала всё лучше, у меня осталось бы больше времени на отдых». Кроме того, ей хотелось бы, чтобы у неё был опыт изучения итальянского, так как поездка в Рим должна была стать для неё важным событием.
 
 In the last few days before the trip, she was prepearing and thinking, had i planned it better, i would have had more time for the rest. Besides that, she wished she had experience studying Italian, as the trip to Rome meant to be an important event for her.
+In the last days before her trip, she was busy preparing and thought, "If I had planned everything better, I would have had more time to relax." Moreover, she wished she had experience studying Italian, as the trip to Rome was meant to be an important event for her.
 
 Когда рейс был задержан, Анна осознала: «Если бы я знала об этом заранее, я бы приехала позже». Она использовала свободное время, чтобы выпить кофе в аэропорту, обдумывая, как организовать экскурсии.
 
 When flight was delayed, Ann realised: If I had known about it in advance, i would have arrived later. She used her freetime for drinking coffee at the airport, thinking about tour planning.
 
+When her flight was delayed, Anna realized, "If I had known about it in advance, I would have arrived later." She used her free time to have a coffee at the airport, thinking about how to organize her tours.
+
 Прилетев в Рим, она сразу заказала экскурсию, чтобы не терять время. Ей порекомендовали, чтобы она посетила Колизей рано утром. Прогуливаясь по улицам города и наслаждаясь видом на старинные здания, она подумала: «Как бы я хотела остаться здесь надолго».
 
 Having arrived to Rome, she booked the tour straight away, in order to not waist her time. She was adviced, to visit Coliseum in early morning. Strolling down the streets and savouring the views of ancient Roman buildings, she thought "I wish i stayed here longer".
 
+Upon arriving in Rome, she immediately booked a tour to avoid wasting time. She was advised to visit the Colosseum early in the morning. Strolling through the city streets and enjoying the view of ancient buildings, she thought, "How I wish I could stay here for a long time."
+
 В ходе экскурсии ей рассказали, что Колизей строился в течение нескольких десятилетий, и ей показалось, что она могла бы узнать больше об этом месте, если бы заранее изучила его историю. Тем не менее, она решила: «Если я снова приеду в Италию, я буду лучше подготовлена».
+
 During her tour she was told, that the Coliseum had been being built for several decades, it seemed to her, that she could have known about this place, had she studied its history beforce comming. Nevertheless, she decided: "If i come to Italy, i will be prepared better." 
 
+During the tour, she was told that the Colosseum was built over several decades, and she felt she could have learned more about this place if she had studied its history in advance. Nevertheless, she decided, "If I visit Italy again, I will be better prepared."
+
+
 Анна заметила, что местные жители привыкли наслаждаться жизнью. Она даже сказала себе: «Если бы я жила здесь, я бы тоже привыкла к такому ритму». Но, к сожалению, ей нужно было вернуться на работу.
-Ann noticed, that locals are used to enjoing their lifes.
-She enven said to herself: If i lived here, i would get used to such pace. Unfotuantly, she was meant to come back to work. 
+
+Ann noticed, that locals are used to enjoing their lifes. She enven said to herself: If i lived here, i would get used to such pace. Unfotuantly, she was meant to come back to work. 
+
+Anna noticed that the locals were used to enjoying life. She even told herself, "If I lived here, I would get used to such a rhythm too." But unfortunately, she had to return to work.
+
 Возвращаясь домой, Анна размышляла о том, как путешествия изменили её отношение к жизни. Она сказала себе: «Пора начать планировать больше поездок, даже если придётся чем-то пожертвовать». Она также добавила: «Я бы предпочла тратить больше времени на себя, чем на рутину».
 
+Comming back home, Ann was thinking how traveling changed her attitude for life. She said to herself, It's about time I started planing more trips, even if i had to sacrifice something. I would prefer to spend more time for myself, rather that routine, she added.
+
+On her way home, Anna reflected on how traveling had changed her outlook on life. She told herself, "It's time to start planning more trips, even if I have to sacrifice something." She also added, "I would rather spend more time on myself than on routine tasks."
 
 #**Second post**
 
