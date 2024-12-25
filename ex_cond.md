@@ -55,6 +55,11 @@ On her way home, Anna reflected on how traveling had changed her outlook on life
 
 Спорт считается важной частью жизни многих людей, и говорят, что занятия спортом развивают не только тело, но и характер. Антон, который привык заниматься спортом регулярно, решил, что ему пора начать готовиться к участию в марафоне.
 
+Sports considered as important part of peoples lives, and it's said, that exercising not only improves phisical helps but also builds a characher.
+Anton who was used to exercise regulary, decided, that he should start preparing to marathon.
+
+Anton, who was used to exercising regularly, decided that it was time for him to start preparing for a marathon.
+
 Он знал, что его кроссовки нужно было заменить, поэтому он попросил друга заказать ему новую пару в интернете. Если бы он сделал это раньше, у него было бы время на тренировку в новой обуви. Антон также нанял тренера, который заставил его пересмотреть свой подход к тренировкам и питанию.
 
 Первое время ему было трудно, но он говорил себе: «Если я привыкну к этому режиму, мне будет легче достичь цели». Тренер часто говорил: «Ты должен начать больше отдыхать, иначе ты рискуешь перегореть».
